@@ -1,6 +1,5338 @@
-echo "# movietextlyricsgenerator" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/supergillie/movietextlyricsgenerator.git
-git push -u origin master
+1
+00:00:43,600 --> 00:00:45,360
+Hannah, would you mind?
+
+2
+00:00:48,120 --> 00:00:51,040
+What I am going to tell you is,
+of course, top secret.
+
+3
+00:00:51,640 --> 00:00:54,080
+The Egyptians have rockets
+based at Helwan.
+
+4
+00:00:54,640 --> 00:00:58,520
+The targets are Acre, Haifa, Tel Aviv-Jaffa.
+
+5
+00:00:59,120 --> 00:01:00,760
+That would be the first strike.
+
+6
+00:01:00,840 --> 00:01:03,720
+The second strike would straddle
+the whole country.
+
+7
+00:01:04,040 --> 00:01:06,720
+The rockets will have special warheads.
+
+8
+00:01:07,120 --> 00:01:10,800
+They will contain bubonic plague
+and strontium 90.
+
+9
+00:01:12,360 --> 00:01:15,560
+If it succeeds, it will be the end of Israel.
+
+10
+00:01:18,200 --> 00:01:21,520
+All they are waiting for is completion
+of a teleguidance system...
+
+11
+00:01:21,600 --> 00:01:23,960
+...without which
+they can't target the rockets.
+
+12
+00:01:24,040 --> 00:01:25,560
+I have received this.
+
+13
+00:01:25,680 --> 00:01:28,600
+Scientists are working
+on the teleguidance system...
+
+14
+00:01:29,000 --> 00:01:33,000
+...somewhere in Germany,
+under the cover of a legitimate factory.
+
+15
+00:01:33,080 --> 00:01:37,360
+They're blameless because they don't know
+they are working for the Odessa.
+
+16
+00:01:37,760 --> 00:01:39,920
+They have nearly completed the job.
+
+17
+00:01:40,000 --> 00:01:42,560
+David, we must find that factory, quick.
+
+18
+00:01:43,000 --> 00:01:44,560
+I'll fly back tonight.
+
+19
+00:05:36,080 --> 00:05:39,000
+<i>This is the West German
+Broadcasting Network.</i>
+
+20
+00:05:39,240 --> 00:05:43,240
+<i>We are interrupting our programme
+to take you direct to the United States...</i>
+
+21
+00:05:43,320 --> 00:05:47,200
+<i>... for a further report
+on the condition of the President.</i>
+
+22
+00:05:50,400 --> 00:05:51,920
+<i>This is Washington.</i>
+
+23
+00:05:52,400 --> 00:05:56,440
+<i>We have just received confirmation
+that President Kennedy is dead.</i>
+
+24
+00:05:57,400 --> 00:06:00,520
+<i>President John F. Kennedy
+died at the Parkland Hospital...</i>
+
+25
+00:06:00,600 --> 00:06:03,400
+<i>... following a shooting
+at Dallas earlier today.</i>
+
+26
+00:06:04,160 --> 00:06:06,200
+<i>Mrs. Kennedy was at her husband's side...</i>
+
+27
+00:06:06,280 --> 00:06:09,840
+<i>... while surgeons administered
+an emergency blood transfusion.</i>
+
+28
+00:06:09,960 --> 00:06:12,920
+<i>But it was not possible
+to save the President's life.</i>
+
+29
+00:06:13,720 --> 00:06:15,000
+<i>We will be...</i>
+
+30
+00:06:20,520 --> 00:06:24,320
+<i>Events that can change history
+sometimes hang on tiny chances.</i>
+
+31
+00:06:24,480 --> 00:06:28,280
+<i>If I hadn't pulled to the curb
+I wouldn't have caught the traffic light...</i>
+
+32
+00:06:28,360 --> 00:06:29,800
+<i>... nor seen the ambulance...</i>
+
+33
+00:06:29,880 --> 00:06:32,880
+<i>... never have heard of Salomon Tauber
+or Eduard Roschmann.</i>
+
+34
+00:06:32,960 --> 00:06:35,520
+<i>Nor got involved with the agents of Israel...</i>
+
+35
+00:06:35,600 --> 00:06:38,760
+<i>... or with the sinister and deadly men
+behind the Odessa.</i>
+
+36
+00:06:39,000 --> 00:06:42,880
+<i>That night I was just a reporter
+with a nose for a possible story.</i>
+
+37
+00:07:22,800 --> 00:07:23,640
+Press!
+
+38
+00:07:23,720 --> 00:07:25,560
+Sorry, you can't go in there.
+
+39
+00:07:25,920 --> 00:07:28,480
+- What's going on?
+- Ask at the police station.
+
+40
+00:07:42,360 --> 00:07:44,600
+- Hello!
+- Put it away. It's nothing.
+
+41
+00:07:45,000 --> 00:07:45,920
+What happened?
+
+42
+00:07:46,000 --> 00:07:49,000
+Suicide. An old man gassed himself.
+
+43
+00:07:49,080 --> 00:07:50,760
+It's not worth two lines.
+
+44
+00:07:53,560 --> 00:07:55,440
+Did you hear about Kennedy?
+
+45
+00:07:57,040 --> 00:07:57,960
+Yeah.
+
+46
+00:07:59,240 --> 00:08:00,880
+Just a second.
+
+47
+00:08:04,480 --> 00:08:05,920
+All right.
+
+48
+00:08:07,760 --> 00:08:11,240
+- What have you got there?
+- Some of the old man's rubbish.
+
+49
+00:08:11,320 --> 00:08:13,320
+- Put it on my desk.
+- Right.
+
+50
+00:08:15,960 --> 00:08:18,360
+People are dying
+all over the world tonight...
+
+51
+00:08:18,440 --> 00:08:21,840
+...but all anyone will want to read about
+tomorrow is Kennedy.
+
+52
+00:08:22,600 --> 00:08:24,520
+I'd better be going, Peter.
+
+53
+00:08:25,080 --> 00:08:26,520
+Keep out of trouble.
+
+54
+00:08:40,520 --> 00:08:43,760
+<i>On board the plane taking
+John Kennedy's body to Washington...</i>
+
+55
+00:08:43,840 --> 00:08:46,160
+<i>... the new President was sworn in.</i>
+
+56
+00:08:46,480 --> 00:08:48,800
+<i>In a voice shaking with emotion...</i>
+
+57
+00:08:48,880 --> 00:08:52,760
+<i>... a woman judge from Dallas
+gave him the official oath to speak.</i>
+
+58
+00:08:52,960 --> 00:08:55,440
+<i>Mrs. Kennedy still wore
+the bloodstained dress...</i>
+
+59
+00:08:55,520 --> 00:08:58,560
+<i>... in which she had held
+her dying husband in her arms.</i>
+
+60
+00:09:00,440 --> 00:09:02,000
+That's so terrible.
+
+61
+00:09:02,520 --> 00:09:04,920
+You know what you could get
+for the photograph...
+
+62
+00:09:05,000 --> 00:09:06,840
+...of the man firing those shots?
+
+63
+00:09:06,920 --> 00:09:10,520
+With syndication rights,
+maybe two million marks.
+
+64
+00:09:10,600 --> 00:09:12,880
+What a thing to say at this moment.
+
+65
+00:09:13,720 --> 00:09:15,480
+You're a very scary person.
+
+66
+00:09:16,600 --> 00:09:17,920
+What did I say?
+
+67
+00:09:18,040 --> 00:09:19,920
+You don't know what you said?
+
+68
+00:09:20,040 --> 00:09:21,680
+You're a parasite!
+
+69
+00:09:21,840 --> 00:09:24,080
+You live off other people's troubles.
+
+70
+00:09:24,720 --> 00:09:27,280
+It's the old job conversation once again.
+
+71
+00:09:28,720 --> 00:09:30,440
+Is that what it is?
+
+72
+00:09:33,320 --> 00:09:37,720
+- Come on, Sigi.
+- I'm tired. I've been working all night.
+
+73
+00:09:37,840 --> 00:09:39,560
+And what is it, your work?
+
+74
+00:09:39,640 --> 00:09:42,240
+Dancing around half-naked
+in front of a lot of old men!
+
+75
+00:09:42,320 --> 00:09:44,880
+I earn more in a week
+than you do in a month!
+
+76
+00:09:45,280 --> 00:09:46,920
+Anyway, they're not old.
+
+77
+00:09:47,280 --> 00:09:50,120
+Some of them
+are much more attractive than you are.
+
+78
+00:09:50,200 --> 00:09:52,320
+I am sincerely happy for you.
+
+79
+00:09:59,920 --> 00:10:03,280
+I'm not sure anyone would pay you
+to dance around half-naked.
+
+80
+00:10:09,400 --> 00:10:12,320
+You should have taken
+that regular job at the "Komet"...
+
+81
+00:10:12,400 --> 00:10:14,880
+...then maybe I wouldn't have to work
+at the club.
+
+82
+00:10:14,960 --> 00:10:17,160
+You want to turn me into a cabbage?
+
+83
+00:10:17,240 --> 00:10:19,000
+You are a cabbage.
+
+84
+00:10:21,160 --> 00:10:22,760
+I'm a freelance.
+
+85
+00:10:24,760 --> 00:10:28,360
+It's not regular work,
+but when I make money...
+
+86
+00:10:28,960 --> 00:10:30,880
+...I can make a lot of money.
+
+87
+00:10:31,880 --> 00:10:33,400
+I like my work.
+
+88
+00:10:34,760 --> 00:10:38,480
+I'm conscientious and I'm ambitious.
+
+89
+00:10:39,680 --> 00:10:42,400
+But I'm a freelance,
+and I'm not giving that up.
+
+90
+00:10:44,160 --> 00:10:47,400
+You know, Monika and I
+are very fond of Sigi.
+
+91
+00:10:47,760 --> 00:10:50,880
+- I'm very fond of you and Monika.
+- Don't you want children?
+
+92
+00:10:50,960 --> 00:10:53,240
+You're very good with children, Peter.
+
+93
+00:10:54,360 --> 00:10:55,960
+Other people's children.
+
+94
+00:10:56,520 --> 00:10:59,760
+Do you have some reason
+for asking me to this lunch? Because...
+
+95
+00:10:59,840 --> 00:11:03,080
+...if we continue any further
+with this marriage talk...
+
+96
+00:11:03,160 --> 00:11:05,800
+...it may be the end
+of a wonderful friendship.
+
+97
+00:11:07,000 --> 00:11:08,680
+I wanted to give you this.
+
+98
+00:11:12,640 --> 00:11:14,800
+- What is it?
+- Something to read.
+
+99
+00:11:15,400 --> 00:11:18,920
+It was lying beside the body
+of that old man who gassed himself.
+
+100
+00:11:19,960 --> 00:11:21,880
+- What's so special?
+- You'll see.
+
+101
+00:11:22,320 --> 00:11:24,000
+But it's police property.
+
+102
+00:11:24,120 --> 00:11:27,560
+I really shouldn't give it to you,
+so keep it to yourself, huh?
+
+103
+00:11:27,800 --> 00:11:29,560
+I always do, Karl.
+
+104
+00:11:31,760 --> 00:11:32,960
+Thanks.
+
+105
+00:11:57,200 --> 00:11:59,440
+<i>My name is Salomon Tauber.</i>
+
+106
+00:12:00,600 --> 00:12:05,480
+<i>I have lived this long only because
+there was one more thing I wished to do.</i>
+
+107
+00:12:06,240 --> 00:12:11,160
+<i>The friends I have known, the sufferers
+and victims of the camp, are long dead...</i>
+
+108
+00:12:11,800 --> 00:12:14,400
+<i>... and only the persecutors
+are still around me.</i>
+
+109
+00:12:14,960 --> 00:12:17,920
+<i>I see their faces on the streets
+in the daytime...</i>
+
+110
+00:12:18,520 --> 00:12:22,560
+<i>... and in the night
+I see the face of my wife, Esther.</i>
+
+111
+00:12:22,640 --> 00:12:25,400
+<i>And I remember how she clung to me
+on the train...</i>
+
+112
+00:12:25,480 --> 00:12:28,040
+<i>... as we pulled into the station at Riga.</i>
+
+113
+00:12:56,440 --> 00:13:00,640
+<i>We had been three days and three nights
+in that cattle truck from Berlin...</i>
+
+114
+00:13:00,880 --> 00:13:03,120
+<i>... without food or water.</i>
+
+115
+00:13:03,200 --> 00:13:07,600
+<i>The dead, and there were many of them,
+were crowded in among us.</i>
+
+116
+00:13:08,840 --> 00:13:10,800
+<i>It was there I first saw him.</i>
+
+117
+00:13:11,160 --> 00:13:15,400
+<i>Captain Eduard Roschmann,
+the SS Commandant of the camp.</i>
+
+118
+00:13:16,160 --> 00:13:18,080
+<i>The "butcher."</i>
+
+119
+00:13:21,280 --> 00:13:24,440
+<i>Every day brought another trainload
+of prisoners.</i>
+
+120
+00:13:25,360 --> 00:13:28,400
+<i>Roschmann had many of the women,
+children and elderly...</i>
+
+121
+00:13:28,480 --> 00:13:30,440
+<i>... exterminated on arrival.</i>
+
+122
+00:13:30,880 --> 00:13:32,920
+<i>They were more valuable dead.</i>
+
+123
+00:13:33,000 --> 00:13:36,880
+<i>Their clothes, their hair,
+their teeth were a cash asset.</i>
+
+124
+00:13:37,960 --> 00:13:40,840
+<i>But Esther and I survived
+through that year.</i>
+
+125
+00:13:42,280 --> 00:13:43,920
+<i>I had been an architect before the war...</i>
+
+126
+00:13:44,000 --> 00:13:46,960
+<i>... and knew enough of carpentry
+to get skilled work.</i>
+
+127
+00:13:47,280 --> 00:13:50,520
+<i>We laboured 12 hours a day
+in the camp workshops...</i>
+
+128
+00:13:50,680 --> 00:13:55,240
+<i>... or else at the lumber mills
+in the damp frozen woods near the coast.</i>
+
+129
+00:13:56,120 --> 00:14:00,080
+<i>Several times during the following winter,
+I thought Esther would die.</i>
+
+130
+00:14:00,680 --> 00:14:04,200
+<i>The hunger, the cold,
+the constant brutalities...</i>
+
+131
+00:14:04,280 --> 00:14:07,360
+<i>... seemed to have broken her spirit
+and her will to live.</i>
+
+132
+00:14:08,160 --> 00:14:10,600
+<i>Yet, compared to some, we were fortunate.</i>
+
+133
+00:14:10,720 --> 00:14:13,280
+<i>Many of the prisoners
+were given no food at all...</i>
+
+134
+00:14:13,360 --> 00:14:15,440
+<i>... until they died of starvation.</i>
+
+135
+00:14:16,480 --> 00:14:18,240
+<i>Roschmann had a hobby.</i>
+
+136
+00:14:18,520 --> 00:14:21,080
+<i>He liked to destroy human beings.</i>
+
+137
+00:14:21,640 --> 00:14:23,920
+<i>First their soul, then their body.</i>
+
+138
+00:15:26,280 --> 00:15:29,200
+<i>Sometimes Roschmann amused himself...</i>
+
+139
+00:15:29,280 --> 00:15:33,440
+<i>... by kicking those about to die
+as they huddled together naked...</i>
+
+140
+00:15:33,520 --> 00:15:35,840
+<i>... stripped of dignity and of all hope.</i>
+
+141
+00:15:36,480 --> 00:15:40,520
+<i>He liked watching the dogs feed on them
+while they were still breathing.</i>
+
+142
+00:15:42,160 --> 00:15:44,160
+<i>We had seen a strange van...</i>
+
+143
+00:15:44,560 --> 00:15:47,640
+<i>... grey coloured,
+waiting near the gates of the camp.</i>
+
+144
+00:15:47,720 --> 00:15:49,840
+<i>It had false windows painted on it.</i>
+
+145
+00:15:49,920 --> 00:15:53,080
+<i>There were drawings
+of people laughing and picnicking.</i>
+
+146
+00:15:53,160 --> 00:15:55,480
+<i>To the workers in the fields
+outside the camp...</i>
+
+147
+00:15:55,560 --> 00:15:56,920
+<i>... when the van went by...</i>
+
+148
+00:15:57,000 --> 00:15:59,560
+<i>... it must have looked like there was
+a holiday party...</i>
+
+149
+00:15:59,640 --> 00:16:01,680
+<i>... eating and drinking inside.</i>
+
+150
+00:16:02,400 --> 00:16:05,600
+<i>Some prisoner musicians
+were made to play...</i>
+
+151
+00:16:05,680 --> 00:16:07,880
+<i>... to add to the festivities.</i>
+
+152
+00:16:40,480 --> 00:16:45,480
+<i>But we soon found out
+that the van had a very different purpose.</i>
+
+153
+00:16:46,280 --> 00:16:49,520
+<i>Roschmann had converted it
+into a gas chamber.</i>
+
+154
+00:16:49,840 --> 00:16:53,560
+<i>The exhaust pipe
+had been fed back into the van...</i>
+
+155
+00:16:53,640 --> 00:16:57,520
+<i>... so that everyone inside
+was suffocated by the fumes.</i>
+
+156
+00:16:58,840 --> 00:17:03,160
+<i>The expression in Esther's eyes
+has stayed with me always.</i>
+
+157
+00:17:04,120 --> 00:17:08,000
+<i>After her death, my soul died inside me.</i>
+
+158
+00:17:09,480 --> 00:17:11,840
+<i>But my body and mind remained alive.</i>
+
+159
+00:17:12,240 --> 00:17:14,360
+<i>I was determined to survive...</i>
+
+160
+00:17:14,440 --> 00:17:18,720
+<i>... and one day tell the world
+what Roschmann did to our people here.</i>
+
+161
+00:17:19,120 --> 00:17:20,120
+Peter?
+
+162
+00:17:25,760 --> 00:17:27,080
+It's after 8:00.
+
+163
+00:17:29,000 --> 00:17:33,160
+- Aren't you supposed to be at the club?
+- I tried to call a taxi, but I couldn't get one.
+
+164
+00:17:33,240 --> 00:17:38,440
+A taxi? What do you need a taxi for?
+Don't I always take you?
+
+165
+00:18:03,000 --> 00:18:06,040
+<i>Between 1941 and the end of the war...</i>
+
+166
+00:18:06,240 --> 00:18:10,280
+<i>... over 200,000 German Jews
+were brought to Riga.</i>
+
+167
+00:18:11,520 --> 00:18:13,600
+<i>400 came out alive.</i>
+
+168
+00:18:15,120 --> 00:18:19,680
+<i>In late 1944, we began to hear
+the crump of mortar fire.</i>
+
+169
+00:18:20,160 --> 00:18:23,880
+<i>There were rumours that the Russians
+had taken the suburbs of Riga...</i>
+
+170
+00:18:24,160 --> 00:18:27,200
+<i>... and that the German army
+would be forced to retreat.</i>
+
+171
+00:18:27,320 --> 00:18:31,880
+<i>On October 11,
+50 of us survivors were taken to the docks.</i>
+
+172
+00:18:32,040 --> 00:18:34,920
+<i>We were helping wounded soldiers
+to go on deck...</i>
+
+173
+00:18:35,080 --> 00:18:37,840
+<i>... when Roschmann drove up
+in a staff car...</i>
+
+174
+00:18:37,920 --> 00:18:41,160
+<i>... and gave instructions
+that they should be brought ashore again.</i>
+
+175
+00:18:41,240 --> 00:18:44,480
+<i>He intended to commandeer the ship
+for the SS.</i>
+
+176
+00:19:25,680 --> 00:19:28,280
+<i>The Captain was dead
+before he hit the ground.</i>
+
+177
+00:19:29,000 --> 00:19:31,720
+<i>The medal that fell from him
+into the snow...</i>
+
+178
+00:19:31,800 --> 00:19:34,840
+<i>... was the Knights Cross
+with the oak leaf cluster.</i>
+
+179
+00:19:36,280 --> 00:19:39,880
+<i>Early in 1945,
+a few weeks before the liberation...</i>
+
+180
+00:19:39,960 --> 00:19:43,680
+<i>... Captain Roschmann of the SS
+made up his mind to disappear.</i>
+
+181
+00:19:44,200 --> 00:19:47,600
+<i>He slipped quietly away in a car
+with two other officers.</i>
+
+182
+00:19:48,000 --> 00:19:51,040
+<i>He was wearing the uniform
+of an army corporal.</i>
+
+183
+00:19:51,320 --> 00:19:56,240
+<i>I saw him go and I was determined
+one day to bring him to justice.</i>
+
+184
+00:19:57,240 --> 00:19:59,400
+<i>But now I know I never will.</i>
+
+185
+00:20:00,680 --> 00:20:04,640
+<i>I bear no hatred nor bitterness
+towards the German people.</i>
+
+186
+00:20:05,320 --> 00:20:09,880
+<i>Peoples are not evil.
+Only individuals are evil.</i>
+
+187
+00:20:10,960 --> 00:20:15,320
+<i>Lf, after my death,
+this diary should be found and read...</i>
+
+188
+00:20:16,280 --> 00:20:19,800
+<i>... will some kind friend
+please say Kaddish for me?</i>
+
+189
+00:20:23,880 --> 00:20:25,280
+Still awake?
+
+190
+00:20:25,440 --> 00:20:26,560
+Yeah.
+
+191
+00:20:38,360 --> 00:20:39,600
+Are you all right?
+
+192
+00:20:40,160 --> 00:20:41,040
+No.
+
+193
+00:20:47,600 --> 00:20:49,160
+I have a job to do.
+
+194
+00:20:50,880 --> 00:20:54,960
+You don't even know
+if this Roschmann's still alive.
+
+195
+00:20:55,560 --> 00:20:59,800
+But if he were, say,
+hiding out someplace and I found him...
+
+196
+00:20:59,880 --> 00:21:01,960
+...that would be worth your investment?
+
+197
+00:21:02,040 --> 00:21:04,000
+Dead Jews don't sell papers.
+
+198
+00:21:04,640 --> 00:21:06,600
+These people Roschmann killed...
+
+199
+00:21:06,680 --> 00:21:09,280
+...they weren't Russians or Poles,
+they were Germans.
+
+200
+00:21:09,360 --> 00:21:10,560
+German Jews.
+
+201
+00:21:10,640 --> 00:21:13,120
+- But still Germans.
+- Tragic.
+
+202
+00:21:13,600 --> 00:21:15,360
+It's a sick world, isn't it?
+
+203
+00:21:16,840 --> 00:21:19,840
+These are the best we can get
+on Lady Bird Johnson.
+
+204
+00:21:23,360 --> 00:21:26,880
+And you think that's why
+I should give you a commission...
+
+205
+00:21:27,520 --> 00:21:30,720
+...because the victims of Riga
+were German Jews?
+
+206
+00:21:31,760 --> 00:21:32,840
+Yes.
+
+207
+00:21:34,520 --> 00:21:38,200
+People don't want to know, Peter.
+It's a dead duck.
+
+208
+00:21:39,200 --> 00:21:42,840
+- Not to me it isn't.
+- Take my advice. Drop it.
+
+209
+00:21:46,960 --> 00:21:49,000
+But, Peter, why?
+
+210
+00:21:50,480 --> 00:21:52,680
+Why do you want to do this suddenly?
+
+211
+00:21:52,920 --> 00:21:54,000
+It's over.
+
+212
+00:21:54,160 --> 00:21:57,040
+Nobody wants
+these dreadful trials anymore.
+
+213
+00:21:57,120 --> 00:21:58,720
+It upsets people.
+
+214
+00:21:58,880 --> 00:22:00,920
+People shouldn't be upset by the truth.
+
+215
+00:22:01,000 --> 00:22:02,640
+What is the truth?
+
+216
+00:22:03,680 --> 00:22:05,720
+What do you young people really know?
+
+217
+00:22:05,800 --> 00:22:08,600
+You were too young to understand
+what it was like.
+
+218
+00:22:08,800 --> 00:22:10,640
+I'll go and make the coffee.
+
+219
+00:22:15,760 --> 00:22:16,760
+Mother...
+
+220
+00:22:17,200 --> 00:22:19,600
+...what was it like for you?
+
+221
+00:22:21,040 --> 00:22:22,240
+For me?
+
+222
+00:22:25,240 --> 00:22:27,760
+We lived in Perfallstrasse then.
+
+223
+00:22:29,560 --> 00:22:32,280
+You were about that size.
+
+224
+00:22:33,520 --> 00:22:35,520
+There were bombings every night.
+
+225
+00:22:36,000 --> 00:22:40,600
+One night, we left the cellar
+and the whole street was gone.
+
+226
+00:22:42,040 --> 00:22:44,120
+There were firebombs everywhere.
+
+227
+00:22:45,560 --> 00:22:47,200
+All I tried...
+
+228
+00:22:52,760 --> 00:22:55,280
+All I tried to do was hide your eyes...
+
+229
+00:22:56,320 --> 00:22:59,840
+...so you couldn't see
+people burning like torches.
+
+230
+00:23:01,160 --> 00:23:03,040
+When your father came back on leave...
+
+231
+00:23:03,120 --> 00:23:06,120
+...it took him three days to find us,
+because we'd moved.
+
+232
+00:23:06,200 --> 00:23:08,800
+We'd moved in with a family
+on the other side of town...
+
+233
+00:23:08,880 --> 00:23:11,400
+...in Altona. You probably remember that.
+
+234
+00:23:14,400 --> 00:23:16,480
+What was my father like?
+
+235
+00:23:18,280 --> 00:23:20,280
+Was he something like me?
+
+236
+00:23:25,560 --> 00:23:29,440
+He was always...
+
+237
+00:23:29,880 --> 00:23:31,720
+...very sure of himself.
+
+238
+00:23:35,320 --> 00:23:37,400
+Maybe he was a little more secure.
+
+239
+00:23:43,400 --> 00:23:45,520
+Well then, I'll tell you something.
+
+240
+00:23:50,560 --> 00:23:54,120
+Father would have been
+the first person to say, "Go ahead."
+
+241
+00:23:54,840 --> 00:23:56,760
+I don't like the press.
+
+242
+00:23:57,480 --> 00:24:00,480
+It won't be any trouble.
+It's just a sort of story...
+
+243
+00:24:00,560 --> 00:24:02,320
+...human interest, you know?
+
+244
+00:24:02,400 --> 00:24:05,880
+You can't go up. I've re-let the room.
+
+245
+00:24:08,040 --> 00:24:10,040
+Did he have any possessions?
+
+246
+00:24:10,480 --> 00:24:11,880
+Possessions?
+
+247
+00:24:13,160 --> 00:24:15,880
+- They're out the back.
+- Can I see them?
+
+248
+00:24:17,600 --> 00:24:18,920
+Possible.
+
+249
+00:24:30,800 --> 00:24:32,360
+Is this his wife?
+
+250
+00:24:32,720 --> 00:24:34,040
+I don't know.
+
+251
+00:24:37,120 --> 00:24:38,760
+Did he have any friends?
+
+252
+00:24:39,280 --> 00:24:43,760
+- Never saw anybody except old Marx.
+- Marx?
+
+253
+00:24:44,240 --> 00:24:47,200
+They used to pick up
+their old-age pension together.
+
+254
+00:24:48,400 --> 00:24:50,240
+Can you make a description of him?
+
+255
+00:24:51,840 --> 00:24:56,120
+<i>Old. Thin. Long white hair.</i>
+
+256
+00:24:56,840 --> 00:24:58,760
+<i>Always wears a grey scarf.</i>
+
+257
+00:25:23,320 --> 00:25:24,760
+"Herr" Marx?
+
+258
+00:25:28,160 --> 00:25:29,640
+May I sit down?
+
+259
+00:25:34,360 --> 00:25:37,440
+I'd like to talk to you about your friend,
+Salomon Tauber.
+
+260
+00:25:37,520 --> 00:25:39,920
+- He's dead.
+- Yes, I know.
+
+261
+00:25:41,640 --> 00:25:44,880
+Are you an official?
+
+262
+00:25:46,040 --> 00:25:47,080
+No.
+
+263
+00:25:47,440 --> 00:25:49,160
+Not from the authorities?
+
+264
+00:25:49,240 --> 00:25:52,720
+- The police?
+- I'm a journalist. Peter Miller.
+
+265
+00:25:54,880 --> 00:25:57,000
+Before your friend took his life...
+
+266
+00:25:57,360 --> 00:26:01,280
+...he set down his experiences
+at Riga Concentration Camp.
+
+267
+00:26:02,200 --> 00:26:03,360
+A diary.
+
+268
+00:26:05,040 --> 00:26:07,120
+You were at Riga, too?
+
+269
+00:26:10,400 --> 00:26:11,720
+Auschwitz.
+
+270
+00:26:15,960 --> 00:26:19,680
+In the diary, your friend
+wrote about an SS officer...
+
+271
+00:26:20,200 --> 00:26:21,640
+...named Roschmann.
+
+272
+00:26:22,440 --> 00:26:24,160
+Captain Eduard Roschmann.
+
+273
+00:26:25,320 --> 00:26:28,320
+I want to find out anything I can about him.
+
+274
+00:26:29,680 --> 00:26:31,560
+Maybe even he's still alive.
+
+275
+00:26:32,360 --> 00:26:33,680
+Something.
+
+276
+00:26:34,280 --> 00:26:36,280
+Roschmann is still alive.
+
+277
+00:26:38,880 --> 00:26:41,920
+- How do you know?
+- Salomon saw him.
+
+278
+00:26:43,520 --> 00:26:46,200
+Yes, I read that. That was in 1945.
+
+279
+00:26:46,840 --> 00:26:49,640
+That was three weeks ago.
+Here in Hamburg.
+
+280
+00:26:51,280 --> 00:26:52,520
+Are you sure?
+
+281
+00:26:52,960 --> 00:26:55,920
+He saw him coming out of the opera
+with some friends.
+
+282
+00:26:58,480 --> 00:27:00,440
+Why didn't he go to the police?
+
+283
+00:27:00,680 --> 00:27:03,360
+He did. He reported it.
+
+284
+00:27:05,040 --> 00:27:08,360
+But the police said he had no evidence.
+
+285
+00:27:09,840 --> 00:27:11,720
+That's why he killed himself.
+
+286
+00:27:13,400 --> 00:27:16,840
+You see, he'd come up against the Odessa.
+
+287
+00:27:18,040 --> 00:27:19,200
+The Odessa?
+
+288
+00:27:20,000 --> 00:27:21,840
+He should have been like me.
+
+289
+00:27:22,440 --> 00:27:26,440
+All I care about is getting a boat to Israel,
+that's all I want.
+
+290
+00:27:27,200 --> 00:27:29,920
+Odessa? I don't know
+what you are talking about.
+
+291
+00:27:31,080 --> 00:27:32,560
+Come on, Karl.
+
+292
+00:27:33,040 --> 00:27:35,440
+It's a secret organization of some sort.
+
+293
+00:27:35,920 --> 00:27:37,680
+How much have you heard about it?
+
+294
+00:27:37,760 --> 00:27:40,200
+Just stories, whispers, rumours.
+
+295
+00:27:40,440 --> 00:27:42,320
+Leave it alone, Peter, please.
+
+296
+00:27:43,200 --> 00:27:44,600
+Where is the diary?
+
+297
+00:27:44,680 --> 00:27:47,280
+- I've got it safe.
+- I want it back.
+
+298
+00:27:48,520 --> 00:27:50,760
+What's the matter?
+You're sorry you gave it to me?
+
+299
+00:27:50,840 --> 00:27:54,240
+I gave you it because I thought
+it might make a human interest story...
+
+300
+00:27:54,320 --> 00:27:55,800
+...not an investigation.
+
+301
+00:27:56,880 --> 00:28:00,720
+You gave me the diary because you were
+moved, and you thought I'd be moved by it.
+
+302
+00:28:00,800 --> 00:28:02,680
+- I am.
+- It's police property.
+
+303
+00:28:03,480 --> 00:28:06,920
+You don't want me to follow it up
+or to go after Eduard Roschmann?
+
+304
+00:28:08,040 --> 00:28:09,480
+Monika, we are busy.
+
+305
+00:28:09,600 --> 00:28:12,240
+The children just want to say good night
+to Uncle Peter.
+
+306
+00:28:12,320 --> 00:28:15,200
+- Say good night, then. But quickly.
+- Good night, Erik!
+
+307
+00:28:15,280 --> 00:28:16,960
+Good night, Uncle Peter!
+
+308
+00:28:17,360 --> 00:28:19,920
+- Good night, Uncle Peter.
+- Good night, little Gretel.
+
+309
+00:28:20,000 --> 00:28:21,480
+Now, straight to bed.
+
+310
+00:28:21,760 --> 00:28:23,760
+I'll be up to put the light out.
+
+311
+00:28:27,080 --> 00:28:28,400
+Why are you so scared?
+
+312
+00:28:28,480 --> 00:28:31,800
+I'm telling you, don't get involved.
+It's not your affair.
+
+313
+00:28:32,040 --> 00:28:35,960
+War criminals are a police matter,
+but the police won't do anything about it...
+
+314
+00:28:36,040 --> 00:28:37,240
+...so I'm going to.
+
+315
+00:28:41,640 --> 00:28:44,240
+- State Attorney General's office.
+- Which department?
+
+316
+00:28:44,320 --> 00:28:46,720
+- War Crimes.
+- Second floor. Room 223.
+
+317
+00:28:46,800 --> 00:28:48,280
+Thank you very much.
+
+318
+00:29:02,520 --> 00:29:03,960
+Riga, and the name was?
+
+319
+00:29:04,040 --> 00:29:06,720
+Roschmann, Eduard.
+
+320
+00:29:11,760 --> 00:29:13,440
+What's going on here?
+
+321
+00:29:13,880 --> 00:29:16,120
+- This gentleman wanted...
+- I heard him.
+
+322
+00:29:16,520 --> 00:29:17,960
+Who sent you here?
+
+323
+00:29:18,160 --> 00:29:19,800
+I'm a journalist.
+
+324
+00:29:20,520 --> 00:29:22,000
+Come into my office.
+
+325
+00:29:26,240 --> 00:29:28,200
+Can I see your card?
+
+326
+00:29:32,520 --> 00:29:35,160
+Why are you so interested
+in Captain Roschmann?
+
+327
+00:29:35,400 --> 00:29:37,560
+Is there some investigation of him?
+
+328
+00:29:39,000 --> 00:29:43,080
+- Why do you want to know?
+- It's a matter of public interest.
+
+329
+00:29:43,320 --> 00:29:44,960
+We investigate many things...
+
+330
+00:29:45,040 --> 00:29:49,280
+...but we cannot give information
+concerning the progress of our inquiries.
+
+331
+00:29:49,920 --> 00:29:52,360
+I'm simply asking if there is an inquiry.
+
+332
+00:29:53,000 --> 00:29:55,640
+The matter is confidential.
+I can't discuss it.
+
+333
+00:29:57,000 --> 00:29:59,720
+Yes? Put him through.
+
+334
+00:30:00,440 --> 00:30:03,040
+"Herr General." What a nice surprise.
+
+335
+00:30:03,960 --> 00:30:06,040
+And it's good to hear you, sir.
+
+336
+00:30:07,000 --> 00:30:10,400
+Of course I'm coming.
+I've got the invitation right in front of me.
+
+337
+00:30:10,480 --> 00:30:13,080
+The one evening in the year
+I wouldn't miss.
+
+338
+00:30:14,640 --> 00:30:16,800
+I'll pick you up, sir. How about that?
+
+339
+00:30:16,880 --> 00:30:18,960
+7:00 p.m., so we can go together.
+
+340
+00:30:19,280 --> 00:30:20,880
+Fine.
+
+341
+00:30:26,200 --> 00:30:28,520
+I think I ought to warn you, Miller.
+
+342
+00:30:28,600 --> 00:30:32,200
+It's a serious offence to interfere
+with the machinery of justice.
+
+343
+00:30:32,560 --> 00:30:36,080
+In 13 years your office has managed
+to bring to trial three SS men...
+
+344
+00:30:36,160 --> 00:30:38,200
+...all of them privates. In 13 years!
+
+345
+00:30:38,280 --> 00:30:40,040
+- Now, listen...
+- Justice.
+
+346
+00:31:30,280 --> 00:31:32,640
+ANNUAL MEETING - DIVISION SIEGFRIED
+
+347
+00:31:38,480 --> 00:31:41,880
+<i>It's been a good evening, men,
+and good to see you.</i>
+
+348
+00:31:45,680 --> 00:31:48,440
+<i>They can't kill us off, can they?</i>
+
+349
+00:31:52,320 --> 00:31:55,040
+Never, "Herr Oberst"!
+
+350
+00:31:57,080 --> 00:31:59,520
+<i>And there is Major Krantz.</i>
+
+351
+00:32:00,120 --> 00:32:02,240
+<i>Not a year older, by the look of it.</i>
+
+352
+00:32:09,240 --> 00:32:11,240
+<i>There's a lot of us left.</i>
+
+353
+00:32:11,520 --> 00:32:16,560
+<i>I welcome you all
+to our 18th annual reunion.</i>
+
+354
+00:32:21,920 --> 00:32:26,560
+<i>Now a few words from someone
+who has not been with us...</i>
+
+355
+00:32:27,040 --> 00:32:28,840
+<i>... for several years.</i>
+
+356
+00:32:29,280 --> 00:32:33,920
+<i>Your attention, please,
+for General Greifer, our general.</i>
+
+357
+00:33:05,480 --> 00:33:06,760
+<i>Comrades...</i>
+
+358
+00:33:08,200 --> 00:33:10,320
+<i>... tonight we're together here.</i>
+
+359
+00:33:10,840 --> 00:33:12,800
+<i>But when are we apart?</i>
+
+360
+00:33:13,640 --> 00:33:16,240
+<i>For us, nothing changes.</i>
+
+361
+00:33:18,240 --> 00:33:21,760
+<i>Germany believes
+she doesn't need us now...</i>
+
+362
+00:33:22,720 --> 00:33:25,840
+<i>... but one day she'll know that she does!</i>
+
+363
+00:33:26,640 --> 00:33:29,520
+<i>We'll be as mighty again as we ever were!</i>
+
+364
+00:33:30,320 --> 00:33:31,960
+<i>It'll take time...</i>
+
+365
+00:33:32,560 --> 00:33:35,520
+<i>... but the ideals will be the same.</i>
+
+366
+00:33:36,480 --> 00:33:39,960
+<i>When the drums beat and the bands play...</i>
+
+367
+00:33:40,240 --> 00:33:42,800
+<i>... and our flags wave again...</i>
+
+368
+00:33:43,040 --> 00:33:46,840
+<i>... and our whole nation
+will be united once more...</i>
+
+369
+00:33:47,160 --> 00:33:52,080
+<i>... then we'll march together
+to the ends of the earth!</i>
+
+370
+00:33:52,320 --> 00:33:56,880
+<i>One people. One Germany. One leader!</i>
+
+371
+00:35:36,280 --> 00:35:40,160
+It's good to be back,
+even if only for a few hours.
+
+372
+00:35:41,120 --> 00:35:43,200
+Greifer went too far tonight.
+
+373
+00:35:43,920 --> 00:35:45,440
+Very unclever.
+
+374
+00:35:45,920 --> 00:35:49,800
+He'll get himself into difficulties again.
+Warn him.
+
+375
+00:35:50,080 --> 00:35:51,680
+Yes, "Herr General".
+
+376
+00:35:51,760 --> 00:35:54,440
+- Take off your coat, Werner.
+- Thank you.
+
+377
+00:35:55,760 --> 00:35:57,680
+- Whiskey?
+- A small one, please.
+
+378
+00:35:57,920 --> 00:35:59,800
+- Ferdinand?
+- Nothing, thank you.
+
+379
+00:36:00,240 --> 00:36:03,680
+- Nothing. Ice?
+- No, thank you.
+
+380
+00:36:05,000 --> 00:36:07,320
+What was that incident at the rally?
+
+381
+00:36:07,600 --> 00:36:10,040
+A young journalist.
+We know all about him.
+
+382
+00:36:10,720 --> 00:36:12,320
+What did he want?
+
+383
+00:36:12,800 --> 00:36:15,320
+He's been asking questions about Eduard...
+
+384
+00:36:15,400 --> 00:36:17,320
+...but he's not getting anywhere.
+
+385
+00:36:17,400 --> 00:36:20,280
+- It's being dealt with.
+- I hope so.
+
+386
+00:36:21,760 --> 00:36:26,120
+The only reason for my visit
+is to protect this project.
+
+387
+00:36:28,040 --> 00:36:30,400
+- Sit down, gentlemen.
+- Thank you.
+
+388
+00:36:34,800 --> 00:36:37,880
+The deadline for Nasser's rockets
+has been brought forward...
+
+389
+00:36:37,960 --> 00:36:39,720
+...to March 1.
+
+390
+00:36:40,080 --> 00:36:41,560
+It is essential...
+
+391
+00:36:41,640 --> 00:36:46,480
+...that the teleguidance system is finished
+at least six weeks before that date.
+
+392
+00:36:46,560 --> 00:36:49,160
+Rest assured, "Herr General". It will be.
+
+393
+00:36:51,520 --> 00:36:54,800
+I had hoped Kennedy's death
+would give us more time...
+
+394
+00:36:55,200 --> 00:36:57,400
+...but it looks as though
+President Johnson...
+
+395
+00:36:57,480 --> 00:37:00,320
+...will force the German arms deal
+with the Jews.
+
+396
+00:37:00,880 --> 00:37:03,920
+So we have three months
+to keep our promise to Egypt...
+
+397
+00:37:04,560 --> 00:37:08,280
+...if the rockets of Helwan are to fly...
+
+398
+00:37:09,720 --> 00:37:11,640
+...against Israel.
+
+399
+00:37:12,960 --> 00:37:15,840
+You should have seen them.
+The same old mentality.
+
+400
+00:37:16,600 --> 00:37:19,160
+I thought it was over, but it still goes on.
+
+401
+00:37:22,520 --> 00:37:25,680
+- Have you told the police?
+- Told them what?
+
+402
+00:37:25,880 --> 00:37:28,560
+About getting attacked.
+Having your camera smashed.
+
+403
+00:37:28,640 --> 00:37:31,160
+They'd just say
+I shouldn't have been at the rally.
+
+404
+00:37:31,240 --> 00:37:32,840
+They'd be right.
+
+405
+00:37:33,320 --> 00:37:36,320
+I'm sorry for the old man,
+but since you started this story...
+
+406
+00:37:36,400 --> 00:37:38,120
+...you've had nothing but trouble.
+
+407
+00:37:38,200 --> 00:37:39,520
+Who cares?
+
+408
+00:37:39,720 --> 00:37:41,360
+I care!
+
+409
+00:37:42,560 --> 00:37:44,960
+I'm feeling a responsibility.
+
+410
+00:37:47,160 --> 00:37:48,760
+Responsibility for what?
+
+411
+00:37:50,480 --> 00:37:52,160
+Something new for me, huh?
+
+412
+00:37:53,640 --> 00:37:55,120
+Let's forget it now.
+
+413
+00:37:55,640 --> 00:37:57,400
+Tomorrow I'll get up early.
+
+414
+00:37:57,520 --> 00:37:59,720
+We'll go Christmas shopping together.
+
+415
+00:38:15,440 --> 00:38:18,840
+Erik, Monika, and Karl.
+
+416
+00:38:19,360 --> 00:38:21,800
+- Anybody else?
+- There's still your mother.
+
+417
+00:38:22,280 --> 00:38:25,240
+- Yeah. Mother.
+- I think we should've bought the earrings.
+
+418
+00:38:25,320 --> 00:38:28,560
+She'd never wear them.
+She never wears anything that I buy her!
+
+419
+00:38:28,640 --> 00:38:30,880
+I should get her something
+I could use myself.
+
+420
+00:38:30,960 --> 00:38:33,560
+Okay, so we buy the earrings.
+They'd suit you.
+
+421
+00:38:35,160 --> 00:38:37,720
+I'll get her another nightgown.
+
+422
+00:39:35,080 --> 00:39:37,280
+I'm all right. I'm all right.
+
+423
+00:39:52,120 --> 00:39:53,440
+Maybe it was an accident.
+
+424
+00:39:53,520 --> 00:39:56,080
+It wasn't an accident.
+You know that as well as I do.
+
+425
+00:39:56,160 --> 00:39:57,840
+He pushed you!
+
+426
+00:39:59,160 --> 00:40:01,160
+I don't care. I've had enough.
+
+427
+00:40:01,720 --> 00:40:02,920
+You've had enough?
+
+428
+00:40:03,000 --> 00:40:06,080
+I was pushed under a train,
+and you've had enough?
+
+429
+00:40:07,000 --> 00:40:09,680
+Peter, please, don't go any further.
+I'm scared.
+
+430
+00:40:10,000 --> 00:40:11,440
+I can't stop now!
+
+431
+00:40:12,920 --> 00:40:14,400
+All right.
+
+432
+00:40:15,000 --> 00:40:18,440
+If you're going somewhere tomorrow
+then I'm coming with you.
+
+433
+00:40:21,720 --> 00:40:24,160
+You're not going anywhere!
+
+434
+00:40:34,080 --> 00:40:36,400
+Peter, why are you doing this?
+
+435
+00:40:37,480 --> 00:40:39,800
+Please, don't ask me that.
+
+436
+00:40:41,720 --> 00:40:43,960
+I must do this and I must do it alone.
+
+437
+00:40:45,000 --> 00:40:47,640
+I don't know if I'll be here
+when you get back.
+
+438
+00:40:52,720 --> 00:40:53,880
+Please, be here.
+
+439
+00:41:18,080 --> 00:41:20,880
+A lot of people
+want Simon Wiesenthal's address...
+
+440
+00:41:21,080 --> 00:41:25,240
+...but we don't give it to anybody.
+- I must see him. It's urgent.
+
+441
+00:41:26,040 --> 00:41:29,120
+It always is. I'm sorry.
+
+442
+00:41:30,240 --> 00:41:32,560
+But, you see, apart from Eichmann...
+
+443
+00:41:32,960 --> 00:41:36,640
+...Wiesenthal has brought
+a thousand war criminals to justice.
+
+444
+00:41:37,280 --> 00:41:40,480
+That's a thousand reasons
+why we have to take precautions.
+
+445
+00:41:41,400 --> 00:41:44,240
+Look, you see those?
+
+446
+00:41:44,760 --> 00:41:46,600
+They're all addressed to Wiesenthal.
+
+447
+00:41:46,680 --> 00:41:49,720
+But they won't be delivered
+until they've been checked.
+
+448
+00:41:50,200 --> 00:41:52,720
+Checked for what? Bombs?
+
+449
+00:41:53,400 --> 00:41:55,480
+We leave that to the police.
+
+450
+00:41:55,560 --> 00:41:57,000
+They know what to look for.
+
+451
+00:41:57,080 --> 00:41:59,720
+Perhaps you want to see my credentials.
+
+452
+00:42:00,440 --> 00:42:01,840
+Credentials?
+
+453
+00:42:02,040 --> 00:42:03,000
+PRESS
+
+454
+00:42:06,480 --> 00:42:09,920
+"Herr" Bichler,
+this gentleman wants to leave.
+
+455
+00:42:10,760 --> 00:42:13,320
+Will you escort him
+from the building, please?
+
+456
+00:42:15,720 --> 00:42:18,960
+Be careful, before the police
+start taking an interest in you.
+
+457
+00:42:20,040 --> 00:42:23,080
+Of course nobody will tell you!
+What did you expect?
+
+458
+00:42:23,760 --> 00:42:25,800
+What do you want from Simon Wiesenthal?
+
+459
+00:42:25,880 --> 00:42:28,800
+<i>I have to see him urgently.
+Have you got his address?</i>
+
+460
+00:42:29,080 --> 00:42:30,080
+I can get it.
+
+461
+00:42:30,160 --> 00:42:33,240
+But, Peter, this is the last time
+I am going to help you.
+
+462
+00:42:33,520 --> 00:42:37,200
+Ring me back at 3:00,
+and remember, it's confidential.
+
+463
+00:42:40,120 --> 00:42:41,760
+What was all that about?
+
+464
+00:42:42,080 --> 00:42:45,560
+My journalist friend calling from Vienna.
+
+465
+00:43:09,760 --> 00:43:12,200
+Yes? Put him through.
+
+466
+00:43:12,960 --> 00:43:14,480
+I'll finish it later.
+
+467
+00:43:14,760 --> 00:43:17,720
+Yes, I'm listening.
+
+468
+00:43:22,720 --> 00:43:24,960
+No, you were quite right to phone me.
+
+469
+00:43:25,480 --> 00:43:28,680
+Stay close to Braun
+until I can make arrangements.
+
+470
+00:43:31,760 --> 00:43:34,280
+Give me Dr. Schultz's number in Vienna.
+
+471
+00:43:36,880 --> 00:43:39,480
+"The code is 432," Herr "Deilman."
+
+472
+00:43:39,560 --> 00:43:43,800
+<i>The number is 5-1-7-2-6-5.</i>
+
+473
+00:43:56,440 --> 00:43:59,920
+O-D-E-S-S-A.
+
+474
+00:44:01,000 --> 00:44:04,520
+The organization
+of former members of the SS.
+
+475
+00:44:05,360 --> 00:44:07,680
+It was formed at the end of the war...
+
+476
+00:44:08,160 --> 00:44:10,160
+...to help SS men to disappear.
+
+477
+00:44:10,640 --> 00:44:15,080
+To get them out of Germany.
+Set them up with new identities.
+
+478
+00:44:15,680 --> 00:44:19,040
+Thousands were given forged documents.
+
+479
+00:44:19,400 --> 00:44:21,320
+This war's been over for 20 years.
+
+480
+00:44:21,840 --> 00:44:26,720
+But the Odessa's grown,
+like a spider's web.
+
+481
+00:44:27,600 --> 00:44:29,560
+It stretches to many countries:
+
+482
+00:44:29,920 --> 00:44:32,720
+Argentina, Egypt, Spain, Paraguay.
+
+483
+00:44:33,240 --> 00:44:35,440
+And the centre is in Germany...
+
+484
+00:44:36,440 --> 00:44:37,520
+...today.
+
+485
+00:44:39,960 --> 00:44:41,520
+After the war...
+
+486
+00:44:41,760 --> 00:44:45,680
+...they set out to infiltrate
+every facet of life.
+
+487
+00:44:46,200 --> 00:44:49,280
+Commerce, the judges, the lawyers...
+
+488
+00:44:49,440 --> 00:44:52,440
+...Iocal government, even the police.
+
+489
+00:44:52,760 --> 00:44:54,600
+That takes a lot of money.
+
+490
+00:44:54,680 --> 00:44:56,320
+Money?
+
+491
+00:44:58,560 --> 00:45:00,240
+They have millions!
+
+492
+00:45:01,360 --> 00:45:05,280
+The SS smuggled out
+most of their gold and art treasures...
+
+493
+00:45:05,360 --> 00:45:07,800
+...just before Germany collapsed.
+
+494
+00:45:09,000 --> 00:45:12,480
+A large part lies in vaults...
+
+495
+00:45:13,280 --> 00:45:16,800
+...under the pavements
+of Zürich, Switzerland.
+
+496
+00:45:17,960 --> 00:45:21,920
+Yes, they have got plenty.
+
+497
+00:45:30,600 --> 00:45:32,640
+Recognise these?
+
+498
+00:45:35,720 --> 00:45:38,320
+The members
+of the Hamburg Police Department.
+
+499
+00:45:39,080 --> 00:45:41,440
+Now spread the paper out.
+
+500
+00:45:49,720 --> 00:45:54,320
+SS, SS, SS, SS...
+
+501
+00:45:54,720 --> 00:45:57,920
+...and those two, Odessa.
+
+502
+00:45:59,640 --> 00:46:01,280
+Interesting, huh?
+
+503
+00:46:02,720 --> 00:46:06,400
+There are thousands
+of these people at large.
+
+504
+00:46:07,520 --> 00:46:10,200
+So what is so special about Roschmann?
+
+505
+00:46:12,240 --> 00:46:13,680
+"Herr" Wiesenthal...
+
+506
+00:46:15,960 --> 00:46:17,520
+...you read the diary.
+
+507
+00:46:41,120 --> 00:46:44,640
+Roschmann, Eduard. Blue file.
+
+508
+00:46:45,920 --> 00:46:47,600
+Criminal at large.
+
+509
+00:46:48,520 --> 00:46:50,760
+Roschmann was captured by the British...
+
+510
+00:46:50,840 --> 00:46:55,520
+...on December 20, 1947, in Graz.
+
+511
+00:46:56,880 --> 00:47:00,800
+He was put under escort
+on a train for Munich.
+
+512
+00:47:03,120 --> 00:47:06,640
+He escaped from his guards
+when he went to the lavatory.
+
+513
+00:47:08,680 --> 00:47:12,120
+They broke the door down,
+but the window was open...
+
+514
+00:47:12,760 --> 00:47:14,320
+...and Roschmann gone.
+
+515
+00:47:16,240 --> 00:47:18,480
+They found his tracks in the snow.
+
+516
+00:47:19,120 --> 00:47:21,680
+He had evidently injured himself.
+
+517
+00:47:22,440 --> 00:47:25,960
+But he got away
+and made contact with the Odessa.
+
+518
+00:47:32,160 --> 00:47:34,560
+They would give him one of these.
+
+519
+00:47:34,880 --> 00:47:37,640
+- Passport?
+- Not an ordinary passport.
+
+520
+00:47:37,840 --> 00:47:41,600
+A forged passport
+for someone in the Odessa.
+
+521
+00:47:42,080 --> 00:47:44,480
+And with it, a new identity.
+
+522
+00:47:45,120 --> 00:47:49,240
+A new birth certificate,
+a new job, a new life.
+
+523
+00:47:49,880 --> 00:47:53,600
+By the way, this one was caught.
+
+524
+00:47:56,880 --> 00:47:59,640
+Find the man
+who deals with these things...
+
+525
+00:48:00,040 --> 00:48:02,680
+...and you will be closer
+to finding Roschmann.
+
+526
+00:48:05,840 --> 00:48:08,320
+I don't even know
+what Roschmann looks like.
+
+527
+00:48:14,320 --> 00:48:15,680
+Roschmann.
+
+528
+00:48:22,360 --> 00:48:26,520
+- When was this taken?
+- Nine years ago. In South America.
+
+529
+00:48:27,200 --> 00:48:30,480
+The man who took the photograph
+said he had a limp.
+
+530
+00:48:31,960 --> 00:48:34,920
+Probably the result of his fall
+from the train.
+
+531
+00:48:36,600 --> 00:48:38,280
+May I borrow this?
+
+532
+00:48:39,840 --> 00:48:41,440
+I will make a photocopy.
+
+533
+00:48:45,560 --> 00:48:49,560
+312, please. And I'll be leaving today.
+
+534
+00:48:51,720 --> 00:48:54,760
+"Herr" Miller? "Herr" Peter Miller?
+
+535
+00:48:55,200 --> 00:48:58,600
+- Yes.
+- I wonder if we could talk somewhere?
+
+536
+00:48:58,880 --> 00:49:01,600
+- Your room, perhaps?
+- We can talk here.
+
+537
+00:49:01,680 --> 00:49:03,920
+Of course.
+My name is Schmidt. Dr. Schmidt.
+
+538
+00:49:04,000 --> 00:49:07,120
+- What do you want?
+- Perhaps we can sit down.
+
+539
+00:49:08,120 --> 00:49:10,280
+A very pleasant hotel, this.
+
+540
+00:49:10,840 --> 00:49:13,880
+- A little too solid for me.
+- What is it that you want?
+
+541
+00:49:14,800 --> 00:49:17,320
+You're a journalist, I am told.
+
+542
+00:49:18,440 --> 00:49:23,080
+With a reputation for being very thorough,
+very tenacious.
+
+543
+00:49:25,160 --> 00:49:28,160
+Some friends of mine heard
+you are making an inquiry...
+
+544
+00:49:28,240 --> 00:49:31,840
+...into events that happened
+a long time ago.
+
+545
+00:49:32,200 --> 00:49:35,000
+- You mean Eduard Roschmann, don't you?
+- I do.
+
+546
+00:49:35,840 --> 00:49:38,640
+- I most certainly do.
+- So?
+
+547
+00:49:39,720 --> 00:49:41,720
+Eduard Roschmann is dead!
+
+548
+00:49:43,960 --> 00:49:46,040
+- I didn't know that.
+- Of course not.
+
+549
+00:49:46,120 --> 00:49:47,880
+There's no reason why you should.
+
+550
+00:49:47,960 --> 00:49:51,720
+I thought I'd mention the fact because
+I didn't want you wasting your time.
+
+551
+00:49:51,800 --> 00:49:55,040
+Tell me something, Dr. Schmidt,
+when exactly did he die?
+
+552
+00:49:55,400 --> 00:49:58,680
+In May, 1945,
+fighting the American advance.
+
+553
+00:49:59,280 --> 00:50:01,200
+I'm sorry. You'll have to try harder.
+
+554
+00:50:01,280 --> 00:50:04,240
+Roschmann was captured
+by the British in December, 1947.
+
+555
+00:50:04,320 --> 00:50:08,040
+Didn't your friends brief you properly
+when they gave you this errand?
+
+556
+00:50:08,120 --> 00:50:10,160
+Drop this inquiry!
+
+557
+00:50:12,720 --> 00:50:15,640
+Roschmann was seen alive
+in Hamburg this year.
+
+558
+00:50:15,720 --> 00:50:18,320
+It was never confirmed.
+You just confirmed it.
+
+559
+00:50:20,120 --> 00:50:22,360
+Good day, "Herr" Dr. Schmidt.
+
+560
+00:51:34,640 --> 00:51:37,080
+- Stay where you are!
+- Car keys.
+
+561
+00:52:22,080 --> 00:52:23,760
+For the last time:
+
+562
+00:52:24,240 --> 00:52:27,480
+What do you know about the Odessa?
+
+563
+00:52:28,440 --> 00:52:31,400
+Only just what Simon Wiesenthal told me.
+
+564
+00:52:31,920 --> 00:52:34,960
+So, why after you spoke with Wiesenthal...
+
+565
+00:52:35,040 --> 00:52:38,080
+...did you contact Ferdinand Schultz?
+
+566
+00:52:38,560 --> 00:52:41,600
+Dr. Schmidt. He represented himself to me
+as Dr. Schmidt...
+
+567
+00:52:41,680 --> 00:52:43,520
+...and I didn't contact him.
+
+568
+00:52:44,040 --> 00:52:45,920
+He contacted me!
+
+569
+00:52:46,160 --> 00:52:49,160
+David, give us 15 minutes
+and we'll get the truth.
+
+570
+00:52:51,280 --> 00:52:53,320
+I'm telling you the truth.
+
+571
+00:52:53,880 --> 00:52:55,520
+I've told you the truth.
+
+572
+00:53:00,480 --> 00:53:02,720
+You say he threatened you.
+
+573
+00:53:03,120 --> 00:53:04,200
+Yes.
+
+574
+00:53:04,520 --> 00:53:05,800
+Why?
+
+575
+00:53:06,680 --> 00:53:08,200
+I don't know why.
+
+576
+00:53:08,560 --> 00:53:11,240
+Because of your interest in this diary.
+
+577
+00:53:12,400 --> 00:53:14,000
+Yes, yes!
+
+578
+00:53:17,160 --> 00:53:20,360
+Peter Miller was last seen in Vienna
+two days ago.
+
+579
+00:53:21,200 --> 00:53:24,120
+One of our "Kameraden" talked to him
+at his hotel.
+
+580
+00:53:24,320 --> 00:53:26,120
+Then we lost him completely.
+
+581
+00:53:30,280 --> 00:53:31,680
+Who was in charge?
+
+582
+00:53:32,640 --> 00:53:33,960
+I am in charge!
+
+583
+00:53:40,440 --> 00:53:41,800
+Here's the information.
+
+584
+00:53:41,880 --> 00:53:44,840
+The address of his girlfriend,
+Miller's flat in Hamburg.
+
+585
+00:53:44,920 --> 00:53:48,160
+There's also a list of the people
+who are at your disposal.
+
+586
+00:53:48,920 --> 00:53:51,680
+Let me know where you are, every move.
+
+587
+00:53:52,200 --> 00:53:56,200
+We wouldn't have called you
+if it were not of maximum importance.
+
+588
+00:53:56,280 --> 00:53:58,160
+And when I catch up with him?
+
+589
+00:53:58,280 --> 00:53:59,680
+Kill him!
+
+590
+00:55:43,160 --> 00:55:44,760
+What are you running for?
+
+591
+00:55:44,840 --> 00:55:47,400
+- Why are you scared?
+- Leave me alone. That hurts.
+
+592
+00:55:47,480 --> 00:55:49,720
+Just tell me where your boyfriend is.
+
+593
+00:55:50,720 --> 00:55:53,120
+- I don't know.
+- Don't give me that.
+
+594
+00:55:53,200 --> 00:55:55,720
+Where is he? Where is Miller?
+
+595
+00:55:55,800 --> 00:55:57,680
+- In Vienna.
+- He's not.
+
+596
+00:55:57,880 --> 00:55:59,640
+He left there five days ago.
+
+597
+00:55:59,720 --> 00:56:02,680
+- Where's he gone now?
+- Lf I knew I wouldn't tell you!
+
+598
+00:56:04,360 --> 00:56:06,600
+I don't want you to misunderstand me.
+
+599
+00:56:07,200 --> 00:56:10,120
+Now, where is Miller?
+
+600
+00:56:18,760 --> 00:56:21,760
+Stop! Let me in, quick.
+
+601
+00:56:32,000 --> 00:56:33,480
+What happened?
+
+602
+00:56:34,440 --> 00:56:36,320
+A man attacked me.
+
+603
+00:56:38,600 --> 00:56:41,520
+Where do you live? I'll take you home.
+
+604
+00:56:42,200 --> 00:56:43,520
+Thank you.
+
+605
+00:56:45,280 --> 00:56:48,680
+I have told you
+we are members of Israeli intelligence.
+
+606
+00:56:49,320 --> 00:56:52,760
+I must also tell you we have tried twice...
+
+607
+00:56:52,960 --> 00:56:54,800
+...to infiltrate the Odessa.
+
+608
+00:56:55,880 --> 00:56:59,360
+The question is:
+How far would you go to find this man?
+
+609
+00:57:00,400 --> 00:57:02,400
+Would you risk your life?
+
+610
+00:57:03,520 --> 00:57:04,800
+I already have.
+
+611
+00:57:05,680 --> 00:57:07,600
+Your best chance of finding him...
+
+612
+00:57:07,680 --> 00:57:10,760
+...would be to get into the Odessa yourself,
+of course.
+
+613
+00:57:11,240 --> 00:57:14,000
+You would have some advantages
+over the other two.
+
+614
+00:57:14,080 --> 00:57:15,160
+What are they?
+
+615
+00:57:15,240 --> 00:57:17,360
+In the first place, you are not a Jew, and...
+
+616
+00:57:17,440 --> 00:57:19,680
+What happened to the other two?
+
+617
+00:57:20,000 --> 00:57:22,840
+The first we found drowned in the Elbe.
+
+618
+00:57:22,920 --> 00:57:25,240
+The second disappeared without a trace.
+
+619
+00:57:28,880 --> 00:57:31,360
+But we've learned a lot from our mistakes.
+
+620
+00:57:31,760 --> 00:57:34,320
+Our contacts are better
+than they used to be.
+
+621
+00:57:34,840 --> 00:57:37,440
+One of them is an expert
+on all SS procedure.
+
+622
+00:57:37,680 --> 00:57:39,800
+He would brief you very thoroughly.
+
+623
+00:57:40,040 --> 00:57:41,440
+Can you trust him?
+
+624
+00:57:41,840 --> 00:57:44,000
+As much as we can trust you.
+
+625
+00:57:46,240 --> 00:57:51,000
+- What would you be gaining from all this?
+- Information about the Odessa.
+
+626
+00:57:51,480 --> 00:57:54,040
+All the information
+you could supply us with.
+
+627
+00:57:55,720 --> 00:57:57,920
+All right, I'll do it.
+
+628
+00:58:06,040 --> 00:58:07,400
+You made the right decision.
+
+629
+00:58:08,320 --> 00:58:10,520
+<i>Let's get started. There's a lot to do.</i>
+
+630
+00:58:10,600 --> 00:58:14,240
+<i>We'll begin with Hartstein
+at the Bremen General Hospital.</i>
+
+631
+00:59:10,240 --> 00:59:11,240
+RECORDS OFFICE
+
+632
+00:59:14,360 --> 00:59:17,160
+I want the medical file
+on a Rolf Gunther Kolb.
+
+633
+00:59:17,360 --> 00:59:18,360
+Kolb?
+
+634
+00:59:54,640 --> 00:59:56,640
+Arcadia Clinic - Delmenhorst
+
+635
+01:00:05,680 --> 01:00:07,680
+When will Inspector Braun be back?
+
+636
+01:00:07,760 --> 01:00:10,720
+Maybe next week. He's away on a case.
+
+637
+01:00:12,600 --> 01:00:15,880
+Is there someone who could move in
+with you for a few days?
+
+638
+01:00:16,360 --> 01:00:19,240
+There's Peter's mother,
+but she lives in Ahrensburg.
+
+639
+01:00:19,320 --> 01:00:21,400
+Anyway, I don't want to upset her.
+
+640
+01:00:21,760 --> 01:00:24,160
+You really shouldn't be alone, you know?
+
+641
+01:00:25,000 --> 01:00:27,760
+I could arrange for someone to come
+and stay with you.
+
+642
+01:00:27,840 --> 01:00:31,200
+- I don't think I'd like a stranger...
+- A girl. A policewoman.
+
+643
+01:00:31,400 --> 01:00:33,080
+You'd feel safe with her.
+
+644
+01:00:33,480 --> 01:00:37,400
+- Do you really think it's necessary?
+- Lf I didn't, I wouldn't suggest it.
+
+645
+01:00:38,240 --> 01:00:40,720
+I'll get her to you as quickly as possible.
+
+646
+01:00:43,600 --> 01:00:46,080
+Don't go out more than you have to.
+
+647
+01:00:47,240 --> 01:00:50,640
+Stay away from the nightclub
+and keep in close touch with us.
+
+648
+01:00:50,960 --> 01:00:53,240
+And if you hear from your boyfriend,
+let us know.
+
+649
+01:00:54,280 --> 01:00:55,640
+- Name?
+- Rolf Gunther Kolb.
+
+650
+01:00:55,920 --> 01:00:57,720
+- SS number?
+- 6-2-1-8-0-2.
+
+651
+01:00:58,440 --> 01:01:00,120
+<i>- Rank?
+- Unterscharführer.</i>
+
+652
+01:01:00,440 --> 01:01:02,600
+- Unit?
+- 22nd SS Special Battalion...
+
+653
+01:01:02,680 --> 01:01:04,840
+...attached to
+Flossenbürg Concentration Camp.
+
+654
+01:01:04,920 --> 01:01:07,480
+Tell me, "Unterscharführer" Kolb,
+what is an Aryan?
+
+655
+01:01:07,560 --> 01:01:10,080
+An Aryan is invincible!
+Nature's chosen ruler!
+
+656
+01:01:10,160 --> 01:01:13,160
+What is the life expectancy
+of a concentration camp inmate?
+
+657
+01:01:13,240 --> 01:01:14,680
+From one day to nine months.
+
+658
+01:01:15,000 --> 01:01:18,040
+- What was your date of enlistment?
+- January, 1944.
+
+659
+01:01:18,280 --> 01:01:21,320
+Who was your commandant
+at Flossenbürg Concentration Camp?
+
+660
+01:01:21,400 --> 01:01:22,800
+Major Max Koegel.
+
+661
+01:01:23,040 --> 01:01:26,040
+- What is the SS motto?
+- "My honour is loyalty."
+
+662
+01:01:26,320 --> 01:01:28,480
+- Camp motto?
+- "There is a road to freedom.
+
+663
+01:01:28,560 --> 01:01:31,920
+"Its milestones are obedience,
+hard work, honesty, orderliness...
+
+664
+01:01:32,000 --> 01:01:34,600
+"...cleanliness, abstinence,
+truthfulness, readiness...
+
+665
+01:01:34,680 --> 01:01:38,440
+- "...to sacrifice, love for the Fatherland."
+- Good, "Unterscharführer" Kolb.
+
+666
+01:01:38,880 --> 01:01:41,880
+How can we show a profit margin
+on a prisoner's death?
+
+667
+01:01:43,200 --> 01:01:45,720
+By commercial utilization of the corpse.
+
+668
+01:01:46,400 --> 01:01:48,320
+Gold fillings, clothing, hair.
+
+669
+01:01:49,520 --> 01:01:52,120
+But every corpse
+means the loss of two marks...
+
+670
+01:01:52,240 --> 01:01:54,240
+...due to the cost of cremation.
+
+671
+01:01:54,320 --> 01:01:56,720
+If make-up will be detected,
+we can't have make-up.
+
+672
+01:01:56,800 --> 01:02:00,680
+- But we've got to age him ten years.
+- Peter, please come into the light.
+
+673
+01:02:01,160 --> 01:02:04,160
+You see, he has that young face,
+young skin.
+
+674
+01:02:04,960 --> 01:02:08,600
+Well, no make-up,
+but I can do something around the eyes.
+
+675
+01:02:09,440 --> 01:02:12,760
+- I'm sorry, but as I told you...
+- The moustache is good.
+
+676
+01:02:13,280 --> 01:02:15,560
+Kolb was tattooed
+with an SS blood group...
+
+677
+01:02:15,640 --> 01:02:18,480
+...and he would have had it removed
+if he was on the run...
+
+678
+01:02:18,560 --> 01:02:20,520
+...so you must have the scar.
+
+679
+01:02:22,280 --> 01:02:26,520
+- I understand.
+- Oster, we'll do it now.
+
+680
+01:02:27,960 --> 01:02:29,480
+Take off your jacket.
+
+681
+01:02:40,840 --> 01:02:42,040
+Put up your arm.
+
+682
+01:02:42,120 --> 01:02:44,560
+Close your fist
+and grip as tightly as you can.
+
+683
+01:02:44,640 --> 01:02:47,120
+The first thing they look for is the scar.
+
+684
+01:03:06,560 --> 01:03:08,120
+Exactly as I did it.
+
+685
+01:03:09,600 --> 01:03:12,040
+Why do I have to learn this so precisely?
+
+686
+01:03:12,360 --> 01:03:14,840
+Kolb hasn't been in the SS
+for over 20 years!
+
+687
+01:03:15,040 --> 01:03:17,320
+He's a baker now, not a soldier.
+
+688
+01:03:18,760 --> 01:03:20,400
+Pick up that gun.
+
+689
+01:03:21,120 --> 01:03:23,280
+He's a 40-year-old man
+recovering from a tumour.
+
+690
+01:03:23,360 --> 01:03:26,120
+This is crazy!
+I'm finished with this. I'm tired.
+
+691
+01:03:26,560 --> 01:03:29,320
+What I am trying to teach you
+may save your life.
+
+692
+01:03:30,240 --> 01:03:31,680
+Pick up that gun.
+
+693
+01:03:42,040 --> 01:03:44,200
+I need two more weeks.
+
+694
+01:03:44,560 --> 01:03:46,840
+- He's not ready.
+- We don't have any more time.
+
+695
+01:03:46,920 --> 01:03:49,120
+- He's ready.
+- But, David...
+
+696
+01:03:49,400 --> 01:03:52,000
+- May I come in?
+- Here's our new man.
+
+697
+01:03:53,120 --> 01:03:55,520
+- How does it feel?
+- Frightening.
+
+698
+01:03:58,600 --> 01:04:00,280
+- This is it.
+- Prosit!
+
+699
+01:04:03,600 --> 01:04:05,920
+So now, here's some money.
+
+700
+01:04:08,280 --> 01:04:12,200
+Driving licence
+and the watch you asked for.
+
+701
+01:04:14,600 --> 01:04:17,600
+This is a letter written
+by your employer Eberhardt...
+
+702
+01:04:17,680 --> 01:04:20,120
+...at the bakery, on his own stationery.
+
+703
+01:04:21,840 --> 01:04:25,440
+He's away on holiday for three weeks
+and they can't contact him.
+
+704
+01:04:26,920 --> 01:04:28,720
+So, that's what you've got.
+
+705
+01:04:29,400 --> 01:04:30,720
+Three weeks.
+
+706
+01:04:31,400 --> 01:04:34,560
+<i>You know your contact in Munich,
+but Ackermann is shrewd.</i>
+
+707
+01:04:35,680 --> 01:04:39,120
+<i>Remember the Iron Cross
+and don't forget to pick up the dagger.</i>
+
+708
+01:05:03,880 --> 01:05:07,280
+- May I help you?
+- I see you sell war decorations.
+
+709
+01:05:08,040 --> 01:05:11,600
+I'm interested in an Iron Cross,
+Second Class. An original.
+
+710
+01:05:12,560 --> 01:05:13,920
+For a souvenir?
+
+711
+01:05:14,840 --> 01:05:16,240
+For my collection.
+
+712
+01:05:22,920 --> 01:05:24,360
+Second Class.
+
+713
+01:05:27,280 --> 01:05:29,520
+There's no swastika in the centre.
+
+714
+01:05:29,640 --> 01:05:32,240
+They are the only ones
+we are allowed to sell.
+
+715
+01:05:32,600 --> 01:05:34,640
+Except to friends, "Herr" Ackermann.
+
+716
+01:05:36,480 --> 01:05:38,360
+I was asked to give you this.
+
+717
+01:05:47,600 --> 01:05:49,280
+One moment, please.
+
+718
+01:06:22,080 --> 01:06:24,760
+American tourists buy them
+for paper knives.
+
+719
+01:06:25,800 --> 01:06:28,680
+I think perhaps I can help you.
+Would you come in?
+
+720
+01:07:03,800 --> 01:07:04,680
+Yes?
+
+721
+01:07:05,080 --> 01:07:06,680
+My name is Kolb.
+
+722
+01:07:07,160 --> 01:07:08,400
+Please, come in.
+
+723
+01:07:13,080 --> 01:07:15,080
+Describe your uniform, Kolb.
+
+724
+01:07:15,520 --> 01:07:17,400
+Grey-green tunic and breeches.
+
+725
+01:07:18,360 --> 01:07:21,520
+- Jack boots, black leather belt.
+- 22nd Battalion?
+
+726
+01:07:22,600 --> 01:07:26,040
+Yes, sir. Attached
+to Flossenbürg Concentration Camp.
+
+727
+01:07:28,520 --> 01:07:30,360
+Remain at attention, Kolb.
+
+728
+01:07:36,800 --> 01:07:39,320
+This letter says you have been in hospital.
+
+729
+01:07:39,760 --> 01:07:41,520
+I had a stomach tumour, sir.
+
+730
+01:07:42,160 --> 01:07:43,120
+Go on.
+
+731
+01:07:43,720 --> 01:07:47,240
+I was having tests
+and this ward orderly kept staring at me.
+
+732
+01:07:48,200 --> 01:07:49,560
+I knew his face.
+
+733
+01:07:49,640 --> 01:07:52,520
+I remembered he had been a prisoner
+at Flossenbürg.
+
+734
+01:07:53,360 --> 01:07:54,440
+Well?
+
+735
+01:07:55,040 --> 01:07:58,320
+He was one of the Jews
+we'd instructed to burn the bodies of...
+
+736
+01:07:58,400 --> 01:08:02,000
+...Admiral Canaris and the others...
+
+737
+01:08:02,080 --> 01:08:05,440
+...we'd shot for their attempted
+assassination of the Führer.
+
+738
+01:08:06,000 --> 01:08:08,840
+You were one of those
+who executed Canaris?
+
+739
+01:08:10,280 --> 01:08:12,720
+I commanded the firing squad, sir.
+
+740
+01:08:15,320 --> 01:08:18,920
+Then the orderly saw this,
+my SS blood group letter.
+
+741
+01:08:20,360 --> 01:08:22,520
+I've since had it burnt off.
+
+742
+01:08:23,880 --> 01:08:25,000
+Let me see.
+
+743
+01:08:27,560 --> 01:08:30,520
+I didn't take any precaution about it
+because I didn't think...
+
+744
+01:08:30,600 --> 01:08:33,120
+...anyone would be interested
+in a sergeant.
+
+745
+01:08:33,200 --> 01:08:35,560
+Now they're talking about Canaris
+and the others...
+
+746
+01:08:35,640 --> 01:08:37,120
+...as though they were heroes.
+
+747
+01:08:37,200 --> 01:08:40,200
+- They were traitors, all of them, swine.
+- That's enough!
+
+748
+01:08:47,320 --> 01:08:49,160
+At which hospital were you?
+
+749
+01:08:49,400 --> 01:08:50,880
+Bremen General, sir.
+
+750
+01:08:50,960 --> 01:08:52,080
+Ward?
+
+751
+01:08:52,680 --> 01:08:54,080
+Princess Louise.
+
+752
+01:08:54,680 --> 01:08:57,320
+This orderly, what was his name?
+
+753
+01:08:58,040 --> 01:08:59,320
+Hartstein.
+
+754
+01:09:01,800 --> 01:09:03,920
+I was at Flossenbürg several times.
+
+755
+01:09:05,360 --> 01:09:07,160
+I knew it quite well.
+
+756
+01:09:08,360 --> 01:09:10,040
+I don't remember you, sir.
+
+757
+01:09:12,480 --> 01:09:13,480
+No.
+
+758
+01:09:16,920 --> 01:09:18,520
+You seem nervous.
+
+759
+01:09:19,320 --> 01:09:20,760
+Are you nervous?
+
+760
+01:09:22,400 --> 01:09:24,520
+I've been worried these past weeks.
+
+761
+01:09:31,960 --> 01:09:35,320
+All right. Then what happened?
+
+762
+01:09:36,520 --> 01:09:38,800
+I was transferred to a convalescent home.
+
+763
+01:09:38,880 --> 01:09:39,960
+Which one?
+
+764
+01:09:40,480 --> 01:09:42,320
+Arcadia Clinic at Delmenhorst.
+
+765
+01:09:42,400 --> 01:09:45,160
+Then I received an anonymous phone call...
+
+766
+01:09:45,360 --> 01:09:47,360
+...very official sounding...
+
+767
+01:09:47,440 --> 01:09:51,280
+...warning that this Jew had informed
+the Attorney General's office who I was.
+
+768
+01:09:51,360 --> 01:09:53,680
+- I had to disappear.
+- Your employer Eberhardt?
+
+769
+01:09:53,760 --> 01:09:55,920
+He came to visit me at the nursing home.
+
+770
+01:09:56,000 --> 01:09:58,840
+When I told him what had happened
+he offered to help.
+
+771
+01:09:58,920 --> 01:10:02,160
+- He gave me that letter.
+- Why didn't he contact us himself?
+
+772
+01:10:02,840 --> 01:10:05,720
+Maybe he didn't want to use the phone
+in a matter like this.
+
+773
+01:10:05,800 --> 01:10:08,200
+He was going away on his annual holiday.
+
+774
+01:10:09,720 --> 01:10:11,120
+Yes, we checked.
+
+775
+01:10:11,880 --> 01:10:16,280
+A cruise to the West Indies
+is very pleasant this time of year.
+
+776
+01:10:17,680 --> 01:10:18,960
+Yes, sir.
+
+777
+01:10:22,000 --> 01:10:23,960
+I want these telephone numbers.
+
+778
+01:10:25,360 --> 01:10:26,800
+Put your jacket on.
+
+779
+01:10:30,920 --> 01:10:32,680
+Bad luck, wasn't it?
+
+780
+01:10:33,360 --> 01:10:34,600
+I'm sorry, sir?
+
+781
+01:10:34,680 --> 01:10:37,280
+16,000 inmates at Flossenbürg.
+
+782
+01:10:38,240 --> 01:10:40,120
+Only 700 survived.
+
+783
+01:10:40,560 --> 01:10:42,840
+You have to be spotted by one of them.
+
+784
+01:10:44,200 --> 01:10:46,280
+Yes, sir. It was bad luck.
+
+785
+01:10:47,560 --> 01:10:51,040
+"Unterscharführer" Kolb,
+turn round and face me!
+
+786
+01:10:53,680 --> 01:10:55,360
+Did you receive your dagger?
+
+787
+01:10:55,440 --> 01:10:57,440
+Yes, sir. From Major Max Koegel.
+
+788
+01:10:57,520 --> 01:10:59,760
+There is an inscription on the blade.
+
+789
+01:10:59,920 --> 01:11:01,480
+"Blood and honour," sir.
+
+790
+01:11:02,000 --> 01:11:05,680
+Tell me, what were the amenities like
+at Flossenbürg?
+
+791
+01:11:05,880 --> 01:11:07,880
+- Amenities, sir?
+- Accommodation.
+
+792
+01:11:09,920 --> 01:11:14,760
+Two barracks, a gymnasium,
+a garrison shop, a whorehouse...
+
+793
+01:11:15,120 --> 01:11:16,880
+Which everyone shared?
+
+794
+01:11:17,680 --> 01:11:19,760
+No, sir. Officers had their own.
+
+795
+01:11:20,480 --> 01:11:23,800
+When you looked up from anywhere
+in the camp, what did you see?
+
+796
+01:11:30,360 --> 01:11:31,360
+The sky.
+
+797
+01:11:32,120 --> 01:11:33,720
+Don't be stupid!
+
+798
+01:11:36,600 --> 01:11:38,000
+When we looked up?
+
+799
+01:11:39,400 --> 01:11:43,520
+You mean the ruined castle
+on top of the hill, where we kept the dogs?
+
+800
+01:11:49,360 --> 01:11:51,040
+Come and sit down.
+
+801
+01:12:07,240 --> 01:12:08,480
+Bremen General?
+
+802
+01:12:09,000 --> 01:12:10,840
+Princess Louise ward, please.
+
+803
+01:12:13,840 --> 01:12:17,160
+This is the Department of Social Security,
+Pensions Section.
+
+804
+01:12:17,600 --> 01:12:19,840
+I want to confirm
+that you have a ward orderly...
+
+805
+01:12:19,920 --> 01:12:22,400
+...on your staff by the name of Hartstein.
+
+806
+01:12:22,520 --> 01:12:24,440
+<i>Yes, we have a Jacob Hartstein.</i>
+
+807
+01:12:25,280 --> 01:12:26,360
+Thank you.
+
+808
+01:12:26,440 --> 01:12:29,480
+Would you please transfer me
+to the Registrar's office?
+
+809
+01:12:36,280 --> 01:12:38,160
+Yes, Rolf Gunther Kolb.
+
+810
+01:12:40,200 --> 01:12:42,240
+His tumour responded to treatment.
+
+811
+01:12:42,320 --> 01:12:44,760
+He was transferred
+to a convalescent clinic.
+
+812
+01:12:44,840 --> 01:12:46,520
+<i>Could you tell me which one?</i>
+
+813
+01:12:46,600 --> 01:12:50,000
+Of course. Arcadia Clinic in Delmenhorst.
+
+814
+01:12:50,800 --> 01:12:51,920
+Thank you.
+
+815
+01:13:02,360 --> 01:13:04,080
+Arcadia Clinic.
+
+816
+01:13:07,360 --> 01:13:08,480
+Kolb?
+
+817
+01:13:08,720 --> 01:13:10,760
+Oh, yes, one moment, please.
+
+818
+01:13:21,840 --> 01:13:25,360
+- Is there any trouble, sir?
+- We'll soon find out.
+
+819
+01:13:33,080 --> 01:13:36,600
+Hello, this is Dr. Reitlinger here.
+Can I help you?
+
+820
+01:13:37,040 --> 01:13:40,040
+I am inquiring about a patient
+called Gunther Kolb.
+
+821
+01:13:41,320 --> 01:13:42,800
+Is he still with you?
+
+822
+01:13:43,440 --> 01:13:45,880
+He discharged himself last week.
+
+823
+01:13:46,880 --> 01:13:48,680
+He was very much better.
+
+824
+01:13:50,120 --> 01:13:51,960
+It was a pleasure. Goodbye.
+
+825
+01:13:57,560 --> 01:14:00,000
+Your tumour seems to have improved.
+
+826
+01:14:01,400 --> 01:14:03,400
+I don't have much pain now, sir.
+
+827
+01:14:09,520 --> 01:14:11,600
+You'll need a new identity.
+
+828
+01:14:12,240 --> 01:14:13,960
+And a new passport.
+
+829
+01:14:14,600 --> 01:14:18,560
+I'm sending you to one of our people
+in Bayreuth.
+
+830
+01:14:19,560 --> 01:14:21,960
+His name is Klaus Wenzer.
+
+831
+01:14:23,360 --> 01:14:26,040
+He's a specialist at this kind of thing.
+
+832
+01:14:27,480 --> 01:14:29,720
+Probably the best.
+
+833
+01:14:33,480 --> 01:14:35,920
+After he's fixed you up with documents...
+
+834
+01:14:36,400 --> 01:14:39,880
+...he'll pass you on to someone
+who'll tell you what to do next.
+
+835
+01:14:40,520 --> 01:14:43,880
+Take "Herr" Kolb to the station
+and see he gets the train to Bayreuth.
+
+836
+01:14:43,960 --> 01:14:47,640
+- We'll buy your ticket for you.
+- You've been very kind, sir.
+
+837
+01:14:47,920 --> 01:14:52,080
+Don't worry, Kolb.
+One day we'll ask you to help us.
+
+838
+01:14:52,840 --> 01:14:56,040
+- We must help each other, mustn't we?
+- Yes, sir.
+
+839
+01:15:07,720 --> 01:15:11,120
+The Bayreuth train leaves in half an hour
+from platform three.
+
+840
+01:15:11,440 --> 01:15:15,000
+- I'll wait with you.
+- Please, don't bother. I can manage.
+
+841
+01:15:15,200 --> 01:15:16,520
+Thank you.
+
+842
+01:15:55,040 --> 01:15:56,040
+Yes?
+
+843
+01:15:56,720 --> 01:15:57,840
+Sigi?
+
+844
+01:15:59,000 --> 01:16:01,000
+- Is that Peter?
+- Who is this?
+
+845
+01:16:01,200 --> 01:16:03,200
+One moment, I'll get her.
+
+846
+01:16:09,480 --> 01:16:12,000
+Sigi, it's Peter on the phone.
+
+847
+01:16:14,920 --> 01:16:17,320
+- Why didn't you call me?
+- That's what I am doing.
+
+848
+01:16:17,400 --> 01:16:19,600
+- Peter?
+- Sigi?
+
+849
+01:16:19,920 --> 01:16:22,480
+- Peter!
+- Sigi, is that you?
+
+850
+01:16:22,840 --> 01:16:26,560
+Of course it's me.
+Where are you? It's a terrible connection.
+
+851
+01:16:26,800 --> 01:16:30,040
+I'm fine. It's wonderful to hear your voice.
+
+852
+01:16:30,120 --> 01:16:31,400
+Who was that girl?
+
+853
+01:16:31,480 --> 01:16:35,760
+Listen, I was attacked in the Elbe tunnel
+and I went to the police.
+
+854
+01:16:35,960 --> 01:16:38,080
+I can't hear you.
+
+855
+01:16:38,440 --> 01:16:40,760
+- Are you all right?
+- No, I'm not all right.
+
+856
+01:16:40,840 --> 01:16:43,800
+I'm angry and frightened
+and I want you to come home.
+
+857
+01:16:43,880 --> 01:16:46,480
+- Where are you?
+- I'm at Munich Station.
+
+858
+01:16:46,600 --> 01:16:49,200
+I've a few more things to do,
+but it won't take long.
+
+859
+01:16:49,280 --> 01:16:51,080
+What are you doing at Munich Station?
+
+860
+01:16:51,160 --> 01:16:54,120
+- I want you to come home.
+- Sigi, who was that girl?
+
+861
+01:16:54,720 --> 01:16:56,360
+I can't hear you.
+
+862
+01:16:57,600 --> 01:17:00,360
+- Peter!
+- I have to go now.
+
+863
+01:17:01,880 --> 01:17:03,520
+Sigi, I love you.
+
+864
+01:17:30,520 --> 01:17:33,000
+Are you certain this girl got it right?
+
+865
+01:17:36,080 --> 01:17:38,080
+From Munich Station an hour ago?
+
+866
+01:17:38,720 --> 01:17:41,280
+That's very helpful. Thank you.
+
+867
+01:17:58,880 --> 01:17:59,880
+Yes?
+
+868
+01:18:01,240 --> 01:18:04,360
+This is Werner.
+We have a problem and I need your help.
+
+869
+01:18:05,480 --> 01:18:08,720
+<i>We are looking for someone called Miller,
+Peter Miller.</i>
+
+870
+01:18:09,000 --> 01:18:11,600
+<i>He was at Munich Station
+about an hour ago...</i>
+
+871
+01:18:11,680 --> 01:18:13,760
+<i>... making a telephone call to Hamburg.</i>
+
+872
+01:18:14,920 --> 01:18:16,400
+Just a moment.
+
+873
+01:18:18,160 --> 01:18:19,160
+Fredrich?
+
+874
+01:18:19,800 --> 01:18:20,800
+Yes, sir?
+
+875
+01:18:20,960 --> 01:18:24,360
+You said "Herr" Kolb made a telephone call
+from the station?
+
+876
+01:18:24,480 --> 01:18:27,640
+Yes, "Herr" Bayer,
+just before he got on the train.
+
+877
+01:19:11,520 --> 01:19:14,720
+- Excuse me, "Herr" Wenzer?
+- Yes?
+
+878
+01:19:14,840 --> 01:19:16,200
+Rolf Gunther Kolb.
+
+879
+01:19:17,720 --> 01:19:20,520
+Yes, I've been expecting you, "Herr" Kolb.
+
+880
+01:19:21,960 --> 01:19:24,840
+They just telephoned me
+to tell me you were coming.
+
+881
+01:19:25,200 --> 01:19:28,360
+But I didn't expect you to be here
+quite so soon.
+
+882
+01:19:28,880 --> 01:19:32,720
+- You don't like to read the letter?
+- Of course. The letter.
+
+883
+01:19:34,320 --> 01:19:35,840
+Come into the office.
+
+884
+01:19:37,240 --> 01:19:40,320
+- How long have you been here?
+- I came directly from the station.
+
+885
+01:19:40,400 --> 01:19:44,760
+Good. Do you have a driving licence?
+
+886
+01:19:45,320 --> 01:19:48,800
+I'm sorry, I should offer you a cigarette,
+but I don't smoke.
+
+887
+01:19:49,040 --> 01:19:51,360
+I think smoking is very bad for the health...
+
+888
+01:19:51,440 --> 01:19:54,840
+...so I don't smoke and I don't drink.
+- I don't smoke either.
+
+889
+01:19:55,200 --> 01:19:58,080
+No, no, of course not.
+
+890
+01:19:58,760 --> 01:20:00,760
+I shall have to keep this.
+
+891
+01:20:08,480 --> 01:20:10,120
+Excuse me, please.
+
+892
+01:20:12,160 --> 01:20:14,080
+Please, make yourself at home.
+
+893
+01:20:41,760 --> 01:20:44,600
+It's my mother. She's very ill.
+
+894
+01:20:45,160 --> 01:20:48,120
+She should be in the hospital,
+but you know what they're like.
+
+895
+01:20:48,200 --> 01:20:51,120
+- They can't give the attention like I can.
+- No, of course not.
+
+896
+01:20:51,200 --> 01:20:53,680
+We've always been very close,
+Mother and I.
+
+897
+01:20:54,600 --> 01:20:57,000
+How long will it take for the documents?
+
+898
+01:20:57,320 --> 01:20:59,920
+It depends. First of all I need photographs.
+
+899
+01:21:00,280 --> 01:21:03,280
+- The man I use is away for the weekend.
+- It is urgent.
+
+900
+01:21:03,480 --> 01:21:05,080
+Yes, naturally.
+
+901
+01:21:05,160 --> 01:21:08,880
+But there are also various
+technical preparations.
+
+902
+01:21:09,480 --> 01:21:12,240
+No, you must stay at the hotel
+until Monday.
+
+903
+01:21:12,360 --> 01:21:14,720
+The Excelsior, it's not very far from here.
+
+904
+01:21:14,800 --> 01:21:18,880
+It's nothing much, but it is comfortable
+and you will be safe there.
+
+905
+01:21:19,400 --> 01:21:21,920
+- You must be patient.
+- You do all your printing here?
+
+906
+01:21:22,000 --> 01:21:24,920
+- Here, yes, all here.
+- When shall I see you again?
+
+907
+01:21:25,440 --> 01:21:27,200
+On Monday morning at 10:00.
+
+908
+01:21:27,400 --> 01:21:29,280
+Perhaps we could meet over the weekend.
+
+909
+01:21:29,360 --> 01:21:31,520
+- Discuss old times.
+- I'm sorry.
+
+910
+01:21:31,600 --> 01:21:33,720
+It's very difficult with Mother.
+
+911
+01:21:35,120 --> 01:21:36,760
+I'm sure you understand.
+
+912
+01:21:37,440 --> 01:21:40,560
+It's just 300 metres down the road
+to your left.
+
+913
+01:21:42,600 --> 01:21:44,320
+Until Monday, 10:00.
+
+914
+01:21:57,360 --> 01:22:00,360
+- Has he gone?
+- Yes, Mother. He's gone.
+
+915
+01:22:04,400 --> 01:22:08,360
+One of these days, they will do to you...
+
+916
+01:22:08,760 --> 01:22:11,000
+...what they did to your father.
+
+917
+01:22:11,080 --> 01:22:12,720
+It wasn't them, Mother.
+
+918
+01:22:14,000 --> 01:22:17,880
+They killed him
+when he was no longer any use to them.
+
+919
+01:22:18,400 --> 01:22:19,800
+They killed him.
+
+920
+01:22:19,880 --> 01:22:23,640
+- Father died in a car accident.
+- And they will do it to you.
+
+921
+01:22:24,280 --> 01:22:27,360
+You know too much. Just like him.
+
+922
+01:22:28,640 --> 01:22:30,760
+Do you still do what I told you?
+
+923
+01:22:31,080 --> 01:22:32,840
+Yes, Mother. Always.
+
+924
+01:22:33,680 --> 01:22:37,160
+And I wouldn't hesitate to make use of it
+if there was any trouble.
+
+925
+01:22:38,040 --> 01:22:39,800
+So do stop worrying.
+
+926
+01:22:59,640 --> 01:23:01,640
+- Hello?
+- Kolb?
+
+927
+01:23:03,240 --> 01:23:04,480
+This is Wenzer.
+
+928
+01:23:04,640 --> 01:23:06,840
+I've managed to get hold
+of the photographer.
+
+929
+01:23:06,920 --> 01:23:10,000
+He can be here in an hour
+and take your picture tonight.
+
+930
+01:23:10,560 --> 01:23:11,560
+Tonight?
+
+931
+01:23:12,000 --> 01:23:15,680
+After all, you said it was urgent
+and I've gone to a lot of trouble.
+
+932
+01:23:19,520 --> 01:23:21,440
+It's after 12:00.
+
+933
+01:23:22,880 --> 01:23:26,200
+We are lucky,
+he is not leaving until tomorrow morning.
+
+934
+01:23:26,880 --> 01:23:30,480
+He's on his way here now.
+I really think you should come.
+
+935
+01:23:31,360 --> 01:23:32,880
+All right, I'll be there.
+
+936
+01:23:32,960 --> 01:23:35,120
+Good. Then I'll see you in an hour.
+
+937
+01:23:40,200 --> 01:23:41,560
+What happens now?
+
+938
+01:23:41,680 --> 01:23:43,640
+I don't want you here when he comes.
+
+939
+01:23:43,720 --> 01:23:46,600
+- But I can't leave Mother.
+- I'll look after Mother.
+
+940
+01:23:46,920 --> 01:23:48,760
+I'm very good with the sick.
+
+941
+01:23:49,640 --> 01:23:52,840
+- Come back in the morning.
+- Why can't I stay in the house?
+
+942
+01:23:53,000 --> 01:23:54,920
+There might be a little blood.
+
+943
+01:23:56,960 --> 01:23:59,960
+What if something should happen to her
+while I'm away?
+
+944
+01:24:01,120 --> 01:24:02,880
+Don't argue, Wenzer.
+
+945
+01:24:04,160 --> 01:24:05,240
+All right.
+
+946
+01:24:06,120 --> 01:24:09,400
+I'll just go up and see her
+to tell her not to worry.
+
+947
+01:24:10,360 --> 01:24:12,160
+You've got 15 minutes.
+
+948
+01:25:03,720 --> 01:25:04,800
+Excuse me?
+
+949
+01:25:06,280 --> 01:25:08,400
+I'd like to make a phone call.
+
+950
+01:25:10,040 --> 01:25:12,120
+May I have the phone book, please?
+
+951
+01:25:14,960 --> 01:25:16,760
+- Local or national?
+- Local.
+
+952
+01:25:22,320 --> 01:25:24,040
+Turn out the light.
+
+953
+01:25:40,960 --> 01:25:42,400
+Leave the door open.
+
+954
+01:26:19,880 --> 01:26:20,880
+Thank you.
+
+955
+01:29:02,200 --> 01:29:07,000
+"Hail Mary, the Lord is with you.
+Blessed art thou among women...
+
+956
+01:29:07,080 --> 01:29:10,080
+"...and blessed is the fruit
+of thy womb, Jesus.
+
+957
+01:29:10,280 --> 01:29:14,360
+"Holy Mary, Mother of God,
+pray for us sinners...
+
+958
+01:29:16,040 --> 01:29:18,440
+"...now and at the hour of our death..."
+
+959
+01:29:23,040 --> 01:29:24,440
+Who is that?
+
+960
+01:29:27,440 --> 01:29:31,800
+Father, a Mass must be said for my boy.
+
+961
+01:29:33,960 --> 01:29:38,880
+They killed Viktor
+and now they're going to kill my Klaus.
+
+962
+01:29:39,440 --> 01:29:41,120
+I know it, Father.
+
+963
+01:29:41,640 --> 01:29:43,400
+Who is going to kill Klaus?
+
+964
+01:29:45,160 --> 01:29:46,520
+The Odessa.
+
+965
+01:29:47,520 --> 01:29:51,680
+- Where is Klaus?
+- Hiding. Hiding from them.
+
+966
+01:29:52,040 --> 01:29:56,360
+- Where?
+- He wouldn't leave me. He will come back.
+
+967
+01:29:56,880 --> 01:30:01,600
+If they threaten him, he will use the file.
+
+968
+01:30:03,560 --> 01:30:05,200
+What file?
+
+969
+01:30:05,960 --> 01:30:10,880
+In the safe. I told him, for protection.
+
+970
+01:30:18,640 --> 01:30:21,320
+- Klaus will need the file.
+- Yes, yes.
+
+971
+01:30:22,280 --> 01:30:26,840
+- They won't harm him then.
+- I can take the file with me.
+
+972
+01:30:26,920 --> 01:30:30,240
+Klaus needs protection.
+
+973
+01:30:31,680 --> 01:30:33,600
+What's the number to the safe?
+
+974
+01:30:38,040 --> 01:30:40,120
+Tell me. I'll get the file.
+
+975
+01:30:40,960 --> 01:30:44,680
+- The telephone...
+- No, not the telephone.
+
+976
+01:30:44,800 --> 01:30:45,840
+The safe.
+
+977
+01:30:47,040 --> 01:30:52,240
+Last four numbers telephone...
+
+978
+01:37:08,600 --> 01:37:11,000
+NEW IDENTITY: HANS JOSEF KIEFEL
+
+979
+01:38:58,560 --> 01:39:01,320
+- Hello?
+- Sigi, listen, don't ask any questions.
+
+980
+01:39:01,800 --> 01:39:04,920
+I want you to do something for me.
+Something very important.
+
+981
+01:39:05,000 --> 01:39:07,160
+But you mustn't tell anybody,
+do you understand?
+
+982
+01:39:07,240 --> 01:39:08,880
+Not Mother, not anyone.
+
+983
+01:39:08,960 --> 01:39:10,440
+Yes, I understand.
+
+984
+01:39:16,840 --> 01:39:18,800
+Yes, I shall look forward to it.
+
+985
+01:39:18,880 --> 01:39:20,960
+We'll have a lovely day together.
+
+986
+01:39:22,720 --> 01:39:25,280
+You should have let me answer.
+Who was it?
+
+987
+01:39:25,600 --> 01:39:29,160
+Only Peter's mother.
+She's coming up to see us next Thursday.
+
+988
+01:40:08,960 --> 01:40:11,640
+Sigi, what do you think you're doing?
+
+989
+01:40:14,320 --> 01:40:15,960
+Open this door!
+
+990
+01:40:16,600 --> 01:40:18,200
+This is one of fifty.
+
+991
+01:40:18,560 --> 01:40:21,440
+- And I have them all.
+- How did you get them?
+
+992
+01:40:22,120 --> 01:40:24,000
+Wenzer didn't trust his comrades.
+
+993
+01:40:24,080 --> 01:40:28,280
+He kept the file for protection,
+to use if they ever turned against him.
+
+994
+01:40:28,640 --> 01:40:31,240
+Yes, and where's the rest of the file?
+
+995
+01:40:34,640 --> 01:40:38,520
+I have it safe somewhere.
+
+996
+01:40:39,520 --> 01:40:42,600
+If I gave it to you now,
+you wouldn't need me anymore...
+
+997
+01:40:42,840 --> 01:40:45,520
+...and you might go after Roschmann
+by yourselves.
+
+998
+01:40:45,600 --> 01:40:49,080
+It was our agreement that I would deal
+with Roschmann on my own.
+
+999
+01:40:53,640 --> 01:40:55,520
+Yes, and if you fail?
+
+1000
+01:40:57,320 --> 01:40:58,720
+That's taken care of.
+
+1001
+01:40:58,800 --> 01:41:01,440
+If anything happens to me,
+you'll get the file.
+
+1002
+01:41:02,280 --> 01:41:06,040
+But if you are not going to give it to us
+now, why have you come here?
+
+1003
+01:41:06,160 --> 01:41:11,080
+I want my car, my own clothes,
+1,000 marks for expenses.
+
+1004
+01:41:12,240 --> 01:41:13,880
+And I want Tauber's diary back.
+
+1005
+01:41:44,320 --> 01:41:45,440
+Who's there?
+
+1006
+01:41:45,760 --> 01:41:47,080
+It's me, Sigi.
+
+1007
+01:41:47,920 --> 01:41:49,600
+Is there anyone with you?
+
+1008
+01:41:49,720 --> 01:41:51,720
+Only the porter. Open the door.
+
+1009
+01:42:08,840 --> 01:42:09,920
+Thank you.
+
+1010
+01:42:21,080 --> 01:42:23,560
+Perhaps you had better unpack your things.
+
+1011
+01:42:25,560 --> 01:42:27,360
+Yes, I'll do that.
+
+1012
+01:42:42,160 --> 01:42:44,400
+Well, now you know everything.
+
+1013
+01:42:47,080 --> 01:42:48,720
+Everything, I promise.
+
+1014
+01:42:51,320 --> 01:42:54,080
+Why couldn't you have told me
+in the first place?
+
+1015
+01:42:54,760 --> 01:42:56,840
+Why couldn't you have trusted me?
+
+1016
+01:42:57,200 --> 01:42:58,400
+I wish I had.
+
+1017
+01:43:18,320 --> 01:43:19,640
+What time is it?
+
+1018
+01:43:20,480 --> 01:43:23,800
+It's late. I have to go now.
+
+1019
+01:43:24,520 --> 01:43:26,080
+So soon?
+
+1020
+01:43:28,960 --> 01:43:32,120
+The official opening
+of the Kiefel Electric Trade Fair...
+
+1021
+01:43:33,680 --> 01:43:35,280
+...is at 10:00.
+
+1022
+01:43:36,080 --> 01:43:38,160
+- Peter, I'm scared.
+- Don't worry.
+
+1023
+01:43:39,160 --> 01:43:40,720
+Just listen carefully.
+
+1024
+01:43:40,840 --> 01:43:43,040
+If I'm not back by tomorrow morning...
+
+1025
+01:43:43,120 --> 01:43:45,280
+...if for some reason I'm delayed...
+
+1026
+01:43:45,400 --> 01:43:48,240
+...I want you to take a train to Munich.
+
+1027
+01:43:49,640 --> 01:43:52,440
+Here's a key to one of the lockers
+at the station.
+
+1028
+01:43:53,200 --> 01:43:54,840
+There's a number on it.
+
+1029
+01:43:55,120 --> 01:43:57,120
+In the locker you'll find the file.
+
+1030
+01:43:57,200 --> 01:44:00,880
+I want you to go straight to Vienna
+and give it to Simon Wiesenthal.
+
+1031
+01:44:01,800 --> 01:44:04,800
+Here's a letter for him.
+The address is on the envelope.
+
+1032
+01:44:04,880 --> 01:44:06,520
+Also there's some money.
+
+1033
+01:44:09,720 --> 01:44:13,160
+Don't look so anxious.
+It's just a precaution.
+
+1034
+01:44:15,640 --> 01:44:20,520
+<i>On behalf of Kiefel Electric,
+Hans Josef Kiefel welcomes you...</i>
+
+1035
+01:44:20,600 --> 01:44:24,680
+<i>... our special guests and members
+of the press, to a demonstration...</i>
+
+1036
+01:44:24,760 --> 01:44:27,760
+<i>... of our advanced electronic equipment.</i>
+
+1037
+01:44:30,000 --> 01:44:34,240
+<i>First we are proud to welcome
+our distinguished guests of honour...</i>
+
+1038
+01:44:34,520 --> 01:44:38,200
+<i>... who will declare this trade fair open.</i>
+
+1039
+01:51:11,640 --> 01:51:15,880
+Raimond, if "Herr" Deilman arrives,
+send him up immediately.
+
+1040
+01:51:15,960 --> 01:51:17,240
+Very well.
+
+1041
+01:51:42,400 --> 01:51:43,800
+Put the phone down!
+
+1042
+01:51:49,080 --> 01:51:50,760
+Step away from the desk!
+
+1043
+01:51:55,840 --> 01:51:56,840
+Further.
+
+1044
+01:52:01,560 --> 01:52:02,960
+All right. There.
+
+1045
+01:52:05,120 --> 01:52:09,160
+Yes, the police are outside,
+but don't try to call them.
+
+1046
+01:52:10,080 --> 01:52:12,600
+I have no intention of calling them.
+
+1047
+01:52:13,560 --> 01:52:14,920
+What do you want?
+
+1048
+01:52:15,080 --> 01:52:19,480
+My name is Peter Miller,
+and yours is Eduard Roschmann.
+
+1049
+01:52:20,920 --> 01:52:22,640
+Close the curtains.
+
+1050
+01:52:34,680 --> 01:52:36,000
+Now the others.
+
+1051
+01:52:44,240 --> 01:52:48,120
+You got that limp escaping from the British
+in 1947, didn't you, Roschmann?
+
+1052
+01:52:48,200 --> 01:52:50,240
+When you jumped from the train.
+
+1053
+01:52:52,920 --> 01:52:55,520
+I don't really know
+what you're talking about.
+
+1054
+01:52:56,040 --> 01:52:58,560
+I am Hans Josef Kiefel,
+and who was the man...
+
+1055
+01:52:58,640 --> 01:53:01,040
+Riga, I'm talking about Riga...
+
+1056
+01:53:01,560 --> 01:53:03,840
+...where you were responsible
+for the murder...
+
+1057
+01:53:03,920 --> 01:53:06,920
+...of 80,000 men, women and children,
+"Herr" Commandant!
+
+1058
+01:53:07,480 --> 01:53:09,120
+Do you mind if I smoke?
+
+1059
+01:53:12,480 --> 01:53:16,160
+Please, don't make the mistake
+of not taking me seriously, Roschmann.
+
+1060
+01:53:18,040 --> 01:53:20,000
+I do take you seriously.
+
+1061
+01:53:22,440 --> 01:53:26,000
+There were never
+80,000 disposed of at Riga.
+
+1062
+01:53:27,360 --> 01:53:28,960
+Not even 70,000.
+
+1063
+01:53:29,600 --> 01:53:33,680
+70,000, 60,000. Does it really matter
+how many you killed?
+
+1064
+01:53:34,200 --> 01:53:35,720
+Move away from there.
+
+1065
+01:53:35,960 --> 01:53:37,520
+That's just the point.
+
+1066
+01:53:38,000 --> 01:53:41,000
+It doesn't matter. Not now. Not then.
+
+1067
+01:53:41,680 --> 01:53:45,560
+Look, young man, I don't know why
+you've come after me, but I can guess.
+
+1068
+01:53:46,280 --> 01:53:48,240
+Someone has been filling your head...
+
+1069
+01:53:48,320 --> 01:53:51,960
+...with a lot of sentimental claptrap
+about so-called war crimes and such.
+
+1070
+01:53:52,040 --> 01:53:55,840
+That's all nonsense, absolute nonsense.
+How old are you?
+
+1071
+01:53:56,640 --> 01:53:58,800
+Have you done your military service?
+
+1072
+01:53:58,880 --> 01:54:00,080
+You must have.
+
+1073
+01:54:00,480 --> 01:54:02,200
+You know what the army's like?
+
+1074
+01:54:02,280 --> 01:54:05,040
+A soldier is given orders.
+He obeys those orders.
+
+1075
+01:54:05,760 --> 01:54:08,200
+He doesn't ask if they are right or wrong.
+
+1076
+01:54:08,280 --> 01:54:11,800
+You know that as well as I do.
+All I did was to obey my orders.
+
+1077
+01:54:11,920 --> 01:54:15,000
+Don't compare yourself with a soldier.
+You were an executioner.
+
+1078
+01:54:15,080 --> 01:54:17,680
+To put it more plainly,
+a mass-murderer, a butcher!
+
+1079
+01:54:17,760 --> 01:54:21,120
+- Don't call me a butcher!
+- Don't compare yourself with a soldier.
+
+1080
+01:54:21,200 --> 01:54:23,200
+How dare you call me a butcher!
+
+1081
+01:54:24,400 --> 01:54:28,440
+I was a soldier. We all were.
+Just like the rest.
+
+1082
+01:54:29,600 --> 01:54:35,000
+You young Germans don't realize,
+don't want to understand, what it was like.
+
+1083
+01:54:35,760 --> 01:54:39,360
+So tell me.
+I'm interested in your point of view.
+
+1084
+01:54:39,440 --> 01:54:41,720
+- You are interested?
+- What was it like?
+
+1085
+01:54:41,920 --> 01:54:43,280
+What was it like?
+
+1086
+01:54:43,960 --> 01:54:45,840
+It was like ruling the world.
+
+1087
+01:54:47,280 --> 01:54:49,720
+Because we did rule the world,
+we Germans.
+
+1088
+01:54:51,840 --> 01:54:54,560
+We had beaten every army
+they could throw at us.
+
+1089
+01:54:54,800 --> 01:54:57,720
+For years they'd looked down on us,
+and we showed them...
+
+1090
+01:54:57,800 --> 01:55:00,480
+...yes, all of them,
+that we were a great people...
+
+1091
+01:55:00,560 --> 01:55:02,680
+...and we still are a great people!
+
+1092
+01:55:03,080 --> 01:55:05,400
+And we of the SS were the elite.
+
+1093
+01:55:06,880 --> 01:55:08,880
+Of course, they hunt us down now.
+
+1094
+01:55:09,000 --> 01:55:12,680
+First the Allies and now the wishy-washy
+old women of Bonn.
+
+1095
+01:55:13,240 --> 01:55:16,760
+They want to crush us, they want to crush
+the greatness of Germany...
+
+1096
+01:55:16,840 --> 01:55:21,120
+...which we represented and still do.
+That's why they divided the country.
+
+1097
+01:55:21,680 --> 01:55:23,400
+You youngsters today...
+
+1098
+01:55:23,520 --> 01:55:26,880
+...don't realize what it means
+to be proud of being a German.
+
+1099
+01:55:27,360 --> 01:55:29,800
+You don't speak for Germany,
+not anymore.
+
+1100
+01:55:30,400 --> 01:55:34,120
+No? Look around you at today's youth.
+
+1101
+01:55:34,600 --> 01:55:38,520
+Strong and healthy.
+Virile. A new generation.
+
+1102
+01:55:39,000 --> 01:55:41,120
+And who created this new generation?
+
+1103
+01:55:41,200 --> 01:55:44,600
+We did, by weeding out
+the sickly and the inferior.
+
+1104
+01:55:44,920 --> 01:55:46,080
+Look at yourself.
+
+1105
+01:55:46,160 --> 01:55:49,720
+Strong and healthy.
+Virile. Blonde, blue-eyed.
+
+1106
+01:55:49,920 --> 01:55:51,880
+That's what we were working for.
+
+1107
+01:55:51,960 --> 01:55:53,320
+And we succeeded!
+
+1108
+01:55:53,880 --> 01:55:56,960
+You shouldn't be critical of us.
+You should be grateful.
+
+1109
+01:55:57,720 --> 01:55:59,240
+Sit down in the chair.
+
+1110
+01:55:59,320 --> 01:56:02,800
+You can point that gun at me,
+but we're really on the same side.
+
+1111
+01:56:03,400 --> 01:56:05,720
+Same destiny. Same people.
+
+1112
+01:56:07,440 --> 01:56:11,040
+Why should it matter to you
+what happened to a few miserable Jews?
+
+1113
+01:56:11,440 --> 01:56:13,400
+Put your gun away, young man,
+and go home.
+
+1114
+01:56:13,480 --> 01:56:16,560
+I said, "Sit down."
+
+1115
+01:56:27,160 --> 01:56:29,160
+Put your hands on the armrests.
+
+1116
+01:56:30,320 --> 01:56:34,440
+Look, Germany was crushed to pieces
+in 1945.
+
+1117
+01:56:35,720 --> 01:56:38,960
+And now we are rising again.
+Slowly and surely.
+
+1118
+01:56:40,760 --> 01:56:43,040
+And what brings all this about?
+
+1119
+01:56:43,400 --> 01:56:45,920
+Discipline! Discipline and management.
+
+1120
+01:56:46,080 --> 01:56:49,480
+Harsh discipline and harsh management,
+the harsher the better.
+
+1121
+01:56:50,000 --> 01:56:51,240
+You see all this?
+
+1122
+01:56:51,320 --> 01:56:54,560
+The house, the estate, Kiefel Electric...
+
+1123
+01:56:55,160 --> 01:56:57,720
+...churning out power
+and strength each day.
+
+1124
+01:56:58,280 --> 01:57:02,800
+My factory and hundreds of others like it.
+Who do you think did all this?
+
+1125
+01:57:02,880 --> 01:57:05,800
+We did!
+You should be more practical, young man.
+
+1126
+01:57:06,360 --> 01:57:08,040
+You should be more realistic.
+
+1127
+01:57:08,120 --> 01:57:10,560
+You should acknowledge the facts of today.
+
+1128
+01:57:10,920 --> 01:57:13,240
+Whatever prosperity there is
+in Germany today...
+
+1129
+01:57:13,320 --> 01:57:17,240
+...has to do with millions who work hard
+and never murdered anyone in their lives.
+
+1130
+01:57:17,320 --> 01:57:19,440
+That's nonsense, absolute nonsense!
+
+1131
+01:57:20,680 --> 01:57:23,280
+Do you remember a man
+with the name of Tauber?
+
+1132
+01:57:23,520 --> 01:57:25,120
+- Who?
+- Salomon Tauber.
+
+1133
+01:57:25,440 --> 01:57:27,600
+He was German and Jewish.
+
+1134
+01:57:28,280 --> 01:57:31,320
+One of your prisoners at Riga.
+Try to think, Roschmann.
+
+1135
+01:57:31,520 --> 01:57:34,000
+I can't remember all the prisoners' names.
+
+1136
+01:57:34,280 --> 01:57:36,360
+He died in Hamburg last November.
+
+1137
+01:57:36,560 --> 01:57:38,840
+He gassed himself. Are you listening?
+
+1138
+01:57:39,240 --> 01:57:40,560
+If I must.
+
+1139
+01:57:41,560 --> 01:57:44,000
+Yes, you must.
+
+1140
+01:57:44,880 --> 01:57:46,560
+All right, I'm listening.
+
+1141
+01:57:48,120 --> 01:57:50,960
+- He left behind a diary.
+- Is that why you came?
+
+1142
+01:57:51,880 --> 01:57:54,120
+Because of the diary of some old Jew?
+
+1143
+01:57:54,720 --> 01:57:56,960
+A dead man's diary is no evidence.
+
+1144
+01:57:58,840 --> 01:58:02,520
+There was a date in the diary
+I want to remind you of.
+
+1145
+01:58:03,560 --> 01:58:06,480
+Something that happened at Riga docks...
+
+1146
+01:58:06,560 --> 01:58:08,720
+...on October 11, 1944.
+
+1147
+01:58:33,000 --> 01:58:34,840
+So what? The man struck me.
+
+1148
+01:58:35,120 --> 01:58:36,760
+He disobeyed my orders.
+
+1149
+01:58:37,000 --> 01:58:39,400
+I had the right to commandeer that ship.
+
+1150
+01:58:42,040 --> 01:58:43,880
+Was that the man you killed?
+
+1151
+01:58:44,280 --> 01:58:47,840
+- How should I know? It was 20 years ago.
+- Was that the man?
+
+1152
+01:58:49,880 --> 01:58:52,240
+All right! So that was the man. So what?
+
+1153
+01:58:54,720 --> 01:58:56,160
+That was my father.
+
+1154
+01:59:03,920 --> 01:59:05,080
+Your father.
+
+1155
+01:59:10,600 --> 01:59:13,040
+So you didn't come about the Jews at all.
+
+1156
+01:59:16,040 --> 01:59:17,480
+I understand.
+
+1157
+01:59:18,440 --> 01:59:20,120
+No, you don't understand!
+
+1158
+01:59:20,800 --> 01:59:23,080
+What you and your kind did
+to all those people...
+
+1159
+01:59:23,160 --> 01:59:25,240
+...sickened the whole of mankind.
+
+1160
+01:59:25,560 --> 01:59:28,520
+- But I'm here for my father.
+- But how could you know?
+
+1161
+01:59:30,560 --> 01:59:33,440
+How could you possibly know
+from that diary...
+
+1162
+01:59:34,400 --> 01:59:37,000
+...that man was your father?
+
+1163
+01:59:37,720 --> 01:59:41,200
+October 11, the same date, the same place.
+
+1164
+01:59:41,720 --> 01:59:44,240
+The Knights Cross
+with the oak leaf cluster...
+
+1165
+01:59:44,320 --> 01:59:48,520
+...the highest award for bravery in the field.
+Given to very few of the rank of captain.
+
+1166
+01:59:48,600 --> 01:59:51,960
+The same rank,
+the same decoration, the same man!
+
+1167
+01:59:54,200 --> 01:59:56,040
+I don't even remember.
+
+1168
+02:00:01,200 --> 02:00:03,880
+You're not going to kill me. You can't.
+
+1169
+02:00:06,960 --> 02:00:08,920
+You called me a butcher.
+
+1170
+02:00:09,360 --> 02:00:11,600
+Wouldn't killing me
+make you a butcher, too?
+
+1171
+02:00:11,680 --> 02:00:13,240
+What's the difference?
+
+1172
+02:00:13,640 --> 02:00:15,480
+I wouldn't be killing a man.
+
+1173
+02:00:16,240 --> 02:00:19,320
+- I'd be killing a...
+- Look, I was only Commandant...
+
+1174
+02:00:20,160 --> 02:00:22,720
+...until November '43.
+Then another man came.
+
+1175
+02:00:22,840 --> 02:00:26,560
+Krause. He took over, Kurt Krause.
+
+1176
+02:00:27,400 --> 02:00:31,320
+- He did all the killing. It wasn't me!
+- I know what you are, Roschmann.
+
+1177
+02:00:32,080 --> 02:00:34,880
+Look, I agree with you.
+That was horrible, but...
+
+1178
+02:00:35,520 --> 02:00:37,240
+...I didn't do it,
+I couldn't even shoot straight.
+
+1179
+02:00:38,280 --> 02:00:40,840
+If you kill me,
+you'd be killing the wrong man.
+
+1180
+02:00:40,960 --> 02:00:42,360
+You're disgusting.
+
+1181
+02:00:42,560 --> 02:00:45,240
+But I tell you, it was Krause!
+
+1182
+02:00:45,720 --> 02:00:48,320
+You can tell that
+to the German people, Roschmann.
+
+1183
+02:00:48,400 --> 02:00:51,680
+- I will tell them.
+- You're not even worth a bullet.
+
+1184
+02:00:51,960 --> 02:00:55,640
+I even have evidence to prove what I say,
+a woman wrote to me from New York.
+
+1185
+02:00:55,720 --> 02:00:59,960
+I was only in charge there 11 months,
+not one hanging or shooting at that time.
+
+1186
+02:01:08,240 --> 02:01:09,360
+But why?
+
+1187
+02:01:29,080 --> 02:01:32,680
+<i>I was held in custody for three weeks
+and then released.</i>
+
+1188
+02:01:33,680 --> 02:01:37,280
+<i>I was confused that no serious charge
+was ever brought against me.</i>
+
+1189
+02:01:38,640 --> 02:01:42,760
+<i>I didn't know how much had happened
+during the time I was detained.</i>
+
+1190
+02:01:43,560 --> 02:01:47,280
+<i>As a result of Wenzer's meticulously
+accurate record of the Odessa...</i>
+
+1191
+02:01:48,040 --> 02:01:52,000
+<i>... immediate action was taken to bring
+many Nazi war criminals to justice.</i>
+
+1192
+02:01:52,840 --> 02:01:55,560
+<i>In the first week of February, 1964...</i>
+
+1193
+02:01:55,840 --> 02:01:59,960
+<i>... the research laboratories at Kiefel
+Electric were burned to the ground.</i>
+
+1194
+02:02:00,640 --> 02:02:03,760
+<i>Arson was suspected,
+though it was never proved.</i>
+
+1195
+02:02:04,600 --> 02:02:07,400
+<i>But Nasser's rockets of Helwan never flew.</i>
+
+1196
+02:02:10,240 --> 02:02:14,120
+<i>Finally, in the spring,
+old Marx found himself...</i>
+
+1197
+02:02:14,200 --> 02:02:18,720
+<i>... in the Hall of Remembrance in Jerusalem,
+saying a prayer...</i>
+
+1198
+02:02:18,960 --> 02:02:21,840
+<i>... for the soul of his good friend,
+Salomon Tauber.</i>
+
+1199
+02:02:27,440 --> 02:02:31,680
+<i>I bear no hatred nor bitterness
+towards the German people.</i>
+
+1200
+02:02:32,640 --> 02:02:36,760
+<i>Peoples are not evil.
+Only individuals are evil.</i>
+
+1201
+02:02:38,000 --> 02:02:42,160
+<i>Lf, after my death,
+this diary should be found and read...</i>
+
+1202
+02:02:43,200 --> 02:02:46,480
+<i>... will some kind friend
+please say Kaddish for me?</i>
+
